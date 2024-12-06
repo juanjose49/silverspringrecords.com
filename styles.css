@@ -36,10 +36,6 @@ header nav {
   font-weight: bold;
 }
 
-#menu-toggle {
-  display: none;
-}
-
 .hero {
   background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
   color: #fff;
