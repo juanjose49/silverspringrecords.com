@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Silver Spring Records - Recording Studio & DJ Services in the DMV area" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Silver Spring Records & DJ Services</title>
+  <link href="styles.css" rel="stylesheet" />
+  <style type="text/css">
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+.hero {
+  position: relative; /* Ensure the parent container is positioned relative to the viewport */
+  background: url('images/dj.png') no-repeat center center/cover;
+  color: #fff;
+  text-align: center;
+  padding: 240px 0; /* Adjust vertical padding for the hero section */
+}
+
+@media (max-width: 768px) {
+  .hero {
+    background: url('images/dj.png') no-repeat center center/cover;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    background: url('images/dj.png') no-repeat center center/cover;
+  }
+}
+    .hero img {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+
+	.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for text contrast */
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center; /* Ensure the text inside is also centered */
+}
+
+    .hero-text h2 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    .hero-text p {
+      margin: 10px 0 20px;
+      font-size: 1.2em;
+    }
+
+    .cta {
+      background-color: #f57c00;
+      color: white;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 1.2em;
+      transition: background-color 0.3s;
+    }
+
+    .cta:hover {
+      background-color: #e65100;
+    }
+  </style>
+</head>
+<body>
+<header>
+  <div class="logo">
+    <img src="images/logo.png" alt="Silver Spring Records Logo" />
+  </div>
+  <nav>
+    <ul id="nav-list">
+      <li><a class="active" href="index.html">Home</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <button id="menu-toggle">Menu</button>
+  </nav>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Bringing Your Sound to Life</h2>
+      <p>Silver Spring Records is your premier recording studio and DJ service provider in the DMV area. Whether you’re an aspiring musician, band, or need a top-tier DJ for your event, we’ve got you covered.</p>
+      <a class="cta" href="services.html">Explore Our Services</a>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>&copy; <span id="year"></span> Silver Spring Records</p>
+</footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>

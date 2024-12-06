@@ -1,0 +1,122 @@
+body {
+  margin:0;
+  font-family: Arial, sans-serif;
+  color:#333;
+}
+
+header, footer {
+  background: #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+header .logo {
+  margin-bottom: 10px;
+}
+
+header nav {
+  position: relative;
+}
+
+#nav-list {
+  list-style: none;
+  padding:0;
+  margin:0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+#nav-list li a {
+  text-decoration: none;
+  color: #333;
+}
+
+#nav-list li a.active {
+  font-weight: bold;
+}
+
+#menu-toggle {
+  display: none;
+}
+
+.hero {
+  background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+  color: #fff;
+  text-align:center;
+  padding: 80px 20px;
+}
+
+.hero h2 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.cta {
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration:none;
+  margin-top:20px;
+  display:inline-block;
+}
+
+.page-header {
+  background: #f5f5f5;
+  padding: 30px 20px;
+  text-align:center;
+}
+
+.services-section, .about-section, .contact-section {
+  padding: 20px;
+  max-width: 1000px;
+  margin:0 auto;
+}
+
+.service-offering {
+  background: #fff;
+  border:1px solid #ddd;
+  padding:20px;
+  margin-bottom: 20px;
+}
+
+.service-offering h4 {
+  margin-top:0;
+}
+
+.contact-section form {
+  max-width:500px;
+  margin: 0 auto 20px auto;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.contact-section .contact-info {
+  text-align:center;
+}
+
+footer p {
+  margin:0;
+}
+
+.logo img {
+  max-width: 200px; /* Limits the width of the image */
+  height: auto; /* Keeps the aspect ratio intact */
+  display: block; /* Prevents inline spacing issues */
+  margin: 0 auto; /* Centers the image within its container */
+  border-radius: 50%; /* Makes the image circular */
+  overflow: hidden; /* Ensures the content stays within the circle */
+}
+
+@media (max-width: 768px) {
+  .logo img {
+    max-width: 150px; /* Smaller size for tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .logo img {
+    max-width: 100px; /* Smallest size for mobile devices */
+  }
+}
