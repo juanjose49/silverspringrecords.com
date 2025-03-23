@@ -48,13 +48,28 @@ header nav {
   margin-bottom: 20px;
 }
 
-.cta {
-  background: #333;
+.cta-primary {
+  background: orange;;
   color: #fff;
   padding: 10px 20px;
   text-decoration:none;
   margin-top:20px;
   display:inline-block;
+}
+.cta-primary:hover {
+  background-color: darkorange;
+}
+
+.cta-secondary {
+  background: blue;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration:none;
+  margin-top:20px;
+  display:inline-block;
+}
+.cta-secondary:hover {
+  background-color: darkblue;
 }
 
 .page-header {
