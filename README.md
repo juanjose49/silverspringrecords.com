@@ -46,6 +46,18 @@ ssh -i ./keys/private.key -p 21098 heynlgyh@silverspringrecords.com
 
 The `keys/` folder is ignored by Git (specified in `.gitignore`). Do not share or commit private keys to the repository.
 
+
+## Deploy
+
+When connected to the server run:
+
+```
+cd dist
+git pull 
+find ../public_html -mindepth 1 ! -name '.*' -exec rm -rf {} +
+cp * ../public_html/  -r
+```
+
 ### Troubleshooting SSH
 
 - Ensure your private key has correct permissions:
