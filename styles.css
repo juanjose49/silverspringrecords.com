@@ -74,6 +74,18 @@ header .logo {
   font-weight: 700;
 }
 
+#nav-list .language-switch {
+  padding-left: 20px;
+  border-left: 1px solid #bbb;
+}
+
+@media (max-width: 520px) {
+  #nav-list .language-switch {
+    padding-left: 0;
+    border-left: 0;
+  }
+}
+
 .hero {
   position: relative;
   min-height: 620px;

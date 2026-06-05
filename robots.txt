@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Allow: /es/
 
 Sitemap: https://silverspringrecords.com/sitemap.xml
