@@ -2,101 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="Silver Spring Records - Recording Studio & DJ Services in the DMV area" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Silver Spring Records & DJ Services</title>
+  <meta name="description" content="Silver Spring Records provides recording studio services, DJ entertainment, bilingual MC services, and event sound in Silver Spring, Maryland and the DMV.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Silver Spring Records | Recording Studio & DJ Services in the DMV</title>
+  <link rel="canonical" href="https://silverspringrecords.com/">
+  <meta property="og:title" content="Silver Spring Records | Recording Studio & DJ Services">
+  <meta property="og:description" content="Recording sessions, mixing, mastering, DJ entertainment, bilingual MC services, and event sound in Silver Spring, Maryland and the DMV.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://silverspringrecords.com/">
+  <meta property="og:image" content="https://silverspringrecords.com/images/logo.png">
   <link rel="stylesheet" href="styles.css">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
-  <style type="text/css">
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-
-.hero {
-  position: relative; /* Ensure the parent container is positioned relative to the viewport */
-  background: url('images/dj.png') no-repeat center center/cover;
-  color: #fff;
-  text-align: center;
-  padding: 240px 0; /* Adjust vertical padding for the hero section */
-}
-
-@media (max-width: 768px) {
-  .hero {
-    background: url('images/dj.png') no-repeat center center/cover;
-  }
-}
-
-@media (max-width: 480px) {
-  .hero {
-    background: url('images/dj.png') no-repeat center center/cover;
-  }
-}
-    .hero img {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-    }
-
-	.hero-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background-color: rgba(0, 0, 0, 0.6); /* Dark overlay for text contrast */
-  padding: 20px;
-  border-radius: 10px;
-  text-align: center; /* Ensure the text inside is also centered */
-}
-
-    .hero-text h2 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-
-    .hero-text p {
-      margin: 10px 0 20px;
-      font-size: 1.2em;
-    }
-
-    .cta {
-      background-color: #f57c00;
-      color: white;
-      text-decoration: none;
-      padding: 10px 20px;
-      border-radius: 5px;
-      font-size: 1.2em;
-      transition: background-color 0.3s;
-    }
-
-    .cta:hover {
-      background-color: #e65100;
-    }
-
-    .cta-primary {
-      background: orange;;
-      color: #fff;
-      padding: 10px 20px;
-      text-decoration:none;
-      margin-top:20px;
-      display:inline-block;
-    }
-    .cta-primary:hover {
-      background-color: darkorange;
-    }
-
-    .cta-secondary {
-      background: blue;
-      color: #fff;
-      padding: 10px 20px;
-      text-decoration:none;
-      margin-top:20px;
-      display:inline-block;
-    }
-    .cta-secondary:hover {
-      background-color: darkblue;
-    }
-  </style>
    <!-- Google Analytics -->
    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GWFMWKVJFQ"></script>
    <script>
@@ -105,12 +21,42 @@
      gtag('js', new Date());
      gtag('config', 'G-GWFMWKVJFQ');
    </script>
+   <script type="application/ld+json">
+   {
+     "@context": "https://schema.org",
+     "@type": ["LocalBusiness", "MusicRecordingStudio", "EntertainmentBusiness"],
+     "@id": "https://silverspringrecords.com/#business",
+     "name": "Silver Spring Records",
+     "url": "https://silverspringrecords.com/",
+     "image": "https://silverspringrecords.com/images/logo.png",
+     "email": "juan@silverspringrecords.com",
+     "telephone": "+1-404-906-8831",
+     "address": {
+       "@type": "PostalAddress",
+       "addressLocality": "Silver Spring",
+       "addressRegion": "MD",
+       "addressCountry": "US"
+     },
+     "areaServed": [
+       "Silver Spring, MD",
+       "Washington, DC",
+       "Maryland",
+       "Northern Virginia",
+       "DMV"
+     ],
+     "description": "Recording studio, DJ entertainment, bilingual MC, and mobile event sound services in the Washington DC, Maryland, and Northern Virginia area.",
+     "sameAs": [
+       "https://tidycal.com/m7rj9x3/meet-greet"
+     ]
+   }
+   </script>
 </head>
 <body>
   <header>
     <div class="logo">
-      <img src="images/logo.png" alt="Silver Spring Records Logo" />
-      
+      <a class="logo-link" href="index.html" aria-label="Silver Spring Records home">
+        <img src="images/logo.png" alt="Silver Spring Records">
+      </a>
     </div>
     <nav>
       <ul id="nav-list">
@@ -125,15 +71,59 @@
 <main>
   <section class="hero">
     <div class="hero-text">
-      <h2>Bringing Your Sound to Life</h2>
+      <h1>Bringing Your Sound to Life</h1>
       <p>Meet your premier recording studio and DJ service provider in the DMV area.</p>
-      <a class="cta-secondary" href="services.html">Explore Our Services</a><br>
-      <a class="cta-primary" href="booking.html">Book Now!</a>
+      <div class="hero-actions">
+        <a class="button button-secondary" href="services.html">Explore Our Services</a>
+        <a class="button button-primary" href="booking.html">Book Now!</a>
+      </div>
     </div>
   </section>
-  <div id="gigsalad-reviews-widget"></div><script>var gsReviewWidget;(function(d,t){var s=d.createElement(t),options={path:'271172',maxWidth:'100%',count:2};s.src='https://www.gigsalad.com/js/gigsalad-reviews-widget.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{gsReviewWidget=new GsReviewsWidget(options);gsReviewWidget.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0];var par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
-  <iframe src="https://open.spotify.com/embed/playlist/5vS6JVCidaozmWYtSi1sUf?utm_source=generator"frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <div id="gigsalad_quote_widget"></div><script>var gscqForm;(function(d,t){var s=d.createElement(t),options={path:'271172',maxWidth:'100%'};s.src='https://www.gigsalad.com/js/quote_widget.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{gscqForm=new GsContactForm();gscqForm.initialize(options);gscqForm.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
+  <section class="video-section" aria-labelledby="youtube-heading">
+    <h2 id="youtube-heading">Watch Silver Spring Records on YouTube</h2>
+    <iframe
+      class="media-embed video-embed"
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/RCBa63B56dY?si=jDUfBaOJDoA2dvTZ"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+      loading="lazy">
+    </iframe>
+    <p><a class="button button-secondary" href="https://www.youtube.com/@SilverSpringRecords">Open YouTube Channel</a></p>
+  </section>
+
+  <section class="reviews-section" aria-labelledby="reviews-heading">
+    <h2 id="reviews-heading">What Event Organizers Say About DJ Juan</h2>
+
+    <article class="review">
+      <p>DJ Juan arrived ahead of the scheduled event for proper and safe set up of his equipment. The children and their parents had so much fun listening to the lively child friendly music and then dancing together. It was a memorable experience for everyone. Parents left the event talking about how enjoyable it was for them and their child. The breakdown and clearing of the equipment were equally thorough as the set up.</p>
+      <div class="stars" aria-label="5 out of 5 stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+      </div>
+      <p class="reviewer">- Sylvia M., Silver Spring, MD</p>
+    </article>
+
+    <article class="review">
+      <p>Juan worked hard and had everything set up in an organized and well-thought out way before the event started. He played all the music we asked for at the right moments and it all sounded great at appropriate levels. He even did us a favor and translated some speeches from English to Spanish and Spanish to English!</p>
+      <div class="stars" aria-label="5 out of 5 stars">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+      </div>
+      <p class="reviewer">- Russell G., Arlington, VA</p>
+    </article>
+  </section>
+
 </main>
 <footer>
   <p>&copy; <span id="year"></span> Silver Spring Records</p>

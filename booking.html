@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="description" content="Services offered by Silver Spring Records and DJ Juan San Emeterio" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Our Services | Silver Spring Records</title>
+<meta charset="UTF-8">
+<meta name="description" content="Book Silver Spring Records for DJ services, recording sessions, bilingual MC, event sound, weddings, private parties, and corporate events in the DMV.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Book Now | Silver Spring Records</title>
+<link rel="canonical" href="https://silverspringrecords.com/booking.html">
+<meta property="og:title" content="Book DJ & Recording Services | Silver Spring Records">
+<meta property="og:description" content="Schedule a meet and greet with DJ Juan for weddings, parties, corporate events, recording sessions, and event sound in the DMV.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://silverspringrecords.com/booking.html">
+<meta property="og:image" content="https://silverspringrecords.com/images/logo.png">
 <link rel="stylesheet" href="styles.css">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
  <!-- Google Analytics -->
@@ -19,8 +25,9 @@
 <body>
   <header>
     <div class="logo">
-      <img src="images/logo.png" alt="Silver Spring Records Logo" />
-      
+      <a class="logo-link" href="index.html" aria-label="Silver Spring Records home">
+        <img src="images/logo.png" alt="Silver Spring Records">
+      </a>
     </div>
     <nav>
       <ul id="nav-list">
@@ -34,12 +41,17 @@
 
 <main>
   <section class="page-header">
-    <h2>Book Now!</h2>
-    <p>From professional recording sessions to DJ performances at your next event, we offer everything you need to create and celebrate great music.</p>
+    <h1>Book Now!</h1>
+    <p>Schedule a meet and greet for recording sessions, DJ performances, and event production.</p>
   </section>
-  <div id="gigsalad_quote_widget"></div><script>var gscqForm;(function(d,t){var s=d.createElement(t),options={path:'271172',maxWidth:'100%'};s.src='https://www.gigsalad.com/js/quote_widget.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{gscqForm=new GsContactForm();gscqForm.initialize(options);gscqForm.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
-  <div id="gigsalad-reviews-widget"></div><script>var gsReviewWidget;(function(d,t){var s=d.createElement(t),options={path:'271172',maxWidth:'100%',count:2};s.src='https://www.gigsalad.com/js/gigsalad-reviews-widget.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;if(rs)if(rs!='complete')if(rs!='loaded')return;try{gsReviewWidget=new GsReviewsWidget(options);gsReviewWidget.display();}catch(e){}};var scr=d.getElementsByTagName(t)[0];var par=scr.parentNode;par.insertBefore(s,scr);})(document,'script');</script>
-  <div class="tidycal-embed" data-path="m7rj9x3/meet-greet"></div><script src="https://asset-tidycal.b-cdn.net/js/embed.js" async></script></main>
+
+  <section class="embed-section booking-calendar" aria-labelledby="booking-calendar-heading">
+    <h2 id="booking-calendar-heading">Schedule With DJ Juan</h2>
+    <div class="tidycal-embed" data-path="m7rj9x3/meet-greet"></div>
+  </section>
+
+  <script src="https://asset-tidycal.b-cdn.net/js/embed.js" async></script>
+</main>
 
 <footer>
   <p>&copy; <span id="year"></span> Silver Spring Records</p>
