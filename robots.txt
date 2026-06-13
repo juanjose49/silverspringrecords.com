@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /
 Allow: /es/
+Allow: /favicon.ico
+Allow: /images/
+Allow: /site.webmanifest
 
 Sitemap: https://silverspringrecords.com/sitemap.xml
