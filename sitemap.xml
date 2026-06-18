@@ -47,6 +47,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://silverspringrecords.com/collection.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://silverspringrecords.com/collection.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://silverspringrecords.com/collection.html"/>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://silverspringrecords.com/es/booking.html</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://silverspringrecords.com/booking.html"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://silverspringrecords.com/es/booking.html"/>

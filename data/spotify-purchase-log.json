@@ -1,0 +1,179 @@
+[
+  {
+    "index": 1,
+    "title": "Stumblin' In",
+    "artist": "CYRIL",
+    "status": "purchased",
+    "price": "$1.29",
+    "note": "Confirmed Amazon purchase completed."
+  },
+  {
+    "index": 2,
+    "title": "Moonlit Floor (Kiss Me)",
+    "artist": "LISA",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match found, but no MP3 purchase action was available."
+  },
+  {
+    "index": 3,
+    "title": "can't slow down",
+    "artist": "almost monday",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match found, but no MP3 purchase action was available."
+  },
+  {
+    "index": 4,
+    "title": "Flower Child",
+    "artist": "Kacey Musgraves",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 5,
+    "title": "Ladies Room",
+    "artist": "Olivia Dean",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match found, but no MP3 purchase action was available."
+  },
+  {
+    "index": 6,
+    "title": "2 Be Loved (Am I Ready)",
+    "artist": "Lizzo",
+    "status": "skipped_bad_match",
+    "note": "Amazon result was a remix, not the target track."
+  },
+  {
+    "index": 7,
+    "title": "Upside Down",
+    "artist": "Diana Ross",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 8,
+    "title": "How Bizarre",
+    "artist": "OMC",
+    "status": "purchased",
+    "price": "$1.29",
+    "note": "Confirmed Amazon purchase completed."
+  },
+  {
+    "index": 9,
+    "title": "Don't Stop 'Til You Get Enough - 2003 Edit",
+    "artist": "Michael Jackson",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 10,
+    "title": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+    "artist": "Bee Gees",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 11,
+    "title": "Love Of Your Life",
+    "artist": "RAYE",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 12,
+    "title": "It Ain't Over 'Til It's Over",
+    "artist": "Lenny Kravitz",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 13,
+    "title": "People Watching",
+    "artist": "Sam Fender",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match looked available, but prior buy-action capture failed; safe to retry only with exact visible confirmation."
+  },
+  {
+    "index": 14,
+    "title": "Love You For A Long Time",
+    "artist": "Maggie Rogers",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match looked available, but prior buy-action capture failed; safe to retry only with exact visible confirmation."
+  },
+  {
+    "index": 15,
+    "title": "Hypotheticals",
+    "artist": "Lake Street Dive",
+    "status": "skipped_no_buy_action",
+    "note": "Exact match looked available, but prior buy-action capture failed; safe to retry only with exact visible confirmation."
+  },
+  {
+    "index": 16,
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 17,
+    "title": "All I Wanna Do",
+    "artist": "Sheryl Crow",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 18,
+    "title": "September",
+    "artist": "Earth, Wind & Fire",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 19,
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 20,
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "status": "purchased",
+    "price": "$1.29",
+    "note": "Confirmed Amazon purchase completed."
+  },
+  {
+    "index": 21,
+    "title": "P.Y.T. (Pretty Young Thing)",
+    "artist": "Michael Jackson",
+    "status": "owned"
+  },
+  {
+    "index": 22,
+    "title": "High Horse",
+    "artist": "Kacey Musgraves",
+    "status": "purchased_loose_match",
+    "price": "$1.29",
+    "note": "Purchased Amazon result was High Horse Remix; treat as a loose match, not a pattern to repeat."
+  },
+  {
+    "index": 23,
+    "title": "Happier Times Ahead.",
+    "artist": "RAYE",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 24,
+    "title": "You Can't Hurry Love - Live At Jools' Annual Hootenanny",
+    "artist": "Olivia Dean, Jools Holland",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 25,
+    "title": "Good as Hell (feat. Ariana Grande)",
+    "artist": "Lizzo, Ariana Grande",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 26,
+    "title": "More Than A Woman - SG's Paradise Edit",
+    "artist": "Bee Gees, SG Lewis",
+    "status": "skipped_no_exact_match"
+  },
+  {
+    "index": 27,
+    "title": "Material Girl",
+    "artist": "Madonna",
+    "status": "skipped_no_exact_match"
+  }
+]

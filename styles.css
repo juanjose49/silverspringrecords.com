@@ -519,6 +519,108 @@ header.nav-open .menu-toggle span:nth-child(3) {
   margin-left: auto;
 }
 
+.collection-section {
+  max-width: 1280px;
+  padding: 48px 24px;
+  margin: 0 auto;
+}
+
+.collection-heading-row {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 20px;
+}
+
+.collection-heading-row h2 {
+  margin: 0;
+  line-height: 1.2;
+  font-size: clamp(1.75rem, 2.6vw, 2.4rem);
+}
+
+.collection-count {
+  margin: 8px 0 0;
+  color: #555;
+}
+
+.filter-field {
+  display: grid;
+  gap: 6px;
+  color: #4d4f55;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.filter-field-global {
+  width: min(360px, 100%);
+}
+
+.filter-field input,
+.collection-table input {
+  width: 100%;
+  min-height: 38px;
+  padding: 8px 10px;
+  border: 1px solid #c9cdd3;
+  border-radius: 6px;
+  color: #2f3137;
+  font: inherit;
+  background: #fff;
+}
+
+.collection-table-wrap {
+  overflow-x: auto;
+  background: #fff;
+  border: 1px solid #dedede;
+  border-radius: 6px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.06);
+}
+
+.collection-table {
+  width: 100%;
+  min-width: 860px;
+  border-collapse: collapse;
+}
+
+.collection-table th,
+.collection-table td {
+  padding: 12px 14px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.collection-table th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: #f5f6f8;
+}
+
+.collection-table th span {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.collection-table tbody tr:hover {
+  background: #fff7ef;
+}
+
+.collection-table td {
+  color: #363940;
+}
+
+.collection-table td:first-child {
+  font-weight: 700;
+}
+
+@media (max-width: 700px) {
+  .collection-heading-row {
+    align-items: stretch;
+    flex-direction: column;
+  }
+}
+
 .booking-calendar h2 {
   margin: 0 0 20px;
   text-align: center;

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Review the Silver Spring Records music collection with source links for each cataloged track.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#f57c00">
+<title>Music Collection | Silver Spring Records</title>
+<link rel="canonical" href="https://silverspringrecords.com/collection.html">
+<meta property="og:title" content="Music Collection | Silver Spring Records">
+<meta property="og:description" content="A searchable review table for the Silver Spring Records music collection.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://silverspringrecords.com/collection.html">
+<meta property="og:image" content="https://silverspringrecords.com/images/logo.png">
+<meta property="og:image:alt" content="Silver Spring Records logo">
+<meta property="og:site_name" content="Silver Spring Records">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Music Collection | Silver Spring Records">
+<meta name="twitter:description" content="Review the searchable Silver Spring Records music collection.">
+<meta name="twitter:image" content="https://silverspringrecords.com/images/logo.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="48x48" href="/images/favicon-48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="stylesheet" href="styles.css?v=20260618-collection">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GWFMWKVJFQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GWFMWKVJFQ');
+</script>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a class="logo-link" href="index.html" aria-label="Silver Spring Records home">
+        <img src="images/logo.png" alt="Silver Spring Records">
+      </a>
+    </div>
+    <button class="menu-toggle" type="button" aria-controls="nav-list" aria-expanded="false" aria-label="Open navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav>
+      <ul id="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="booking.html">Book Now!</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a class="active" href="collection.html">Collection</a></li>
+        <li><a href="about.html">About</a></li>
+        <li class="language-switch"><a href="es/" lang="es" hreflang="es">Español</a></li>
+      </ul>
+    </nav>
+  </header>
+
+<main>
+  <section class="page-header">
+    <h1>Collection</h1>
+    <p>Review the Silver Spring Records music library with source links for each cataloged track.</p>
+  </section>
+
+  <section class="collection-section" aria-labelledby="collection-heading">
+    <div class="collection-heading-row">
+      <div>
+        <h2 id="collection-heading">Music Collection</h2>
+        <p id="collection-count" class="collection-count" aria-live="polite">Loading collection...</p>
+      </div>
+      <label class="filter-field filter-field-global">
+        <span>Search all columns</span>
+        <input type="search" id="collection-global-filter" autocomplete="off" placeholder="Title, artist, album, source">
+      </label>
+    </div>
+
+    <div class="collection-table-wrap">
+      <table class="collection-table" data-collection-table data-source="data/music-collection.json">
+        <thead>
+          <tr>
+            <th scope="col">
+              <span>Title</span>
+              <input type="search" data-column-filter="title" autocomplete="off" aria-label="Filter by title">
+            </th>
+            <th scope="col">
+              <span>Artist</span>
+              <input type="search" data-column-filter="artist" autocomplete="off" aria-label="Filter by artist">
+            </th>
+            <th scope="col">
+              <span>Album</span>
+              <input type="search" data-column-filter="album" autocomplete="off" aria-label="Filter by album">
+            </th>
+            <th scope="col">
+              <span>Duration</span>
+              <input type="search" data-column-filter="duration" autocomplete="off" aria-label="Filter by duration">
+            </th>
+            <th scope="col">
+              <span>Source</span>
+              <input type="search" data-column-filter="source" autocomplete="off" aria-label="Filter by source">
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="5">Loading collection...</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; <span id="year"></span> Silver Spring Records</p>
+</footer>
+
+<script src="script.js?v=20260618-collection"></script>
+</body>
+</html>
