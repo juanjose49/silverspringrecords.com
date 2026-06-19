@@ -4523,7 +4523,7 @@
     "id": "bpm-miri-jack-0055",
     "title": "Pink Pony Club",
     "artist": "Chappell Roan",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/145091?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4537,13 +4537,14 @@
     "genre": "Pop",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/145091?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/145091?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0090",
     "title": "Candy",
     "artist": "Cameo",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/123843?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4557,13 +4558,14 @@
     "genre": "Valentine's Day",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/123843?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/123843?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0091",
     "title": "Attack Me With Your Love",
     "artist": "Cameo",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/154491?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4577,13 +4579,14 @@
     "genre": "Funk",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/154491?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/154491?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0098",
     "title": "Forget Me Nots - Remastered",
     "artist": "Patrice Rushen",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/124706?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4597,13 +4600,14 @@
     "genre": "Funk",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/124706?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/124706?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0105",
     "title": "BAILE INoLVIDABLE",
     "artist": "Bad Bunny",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/278223?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4617,13 +4621,14 @@
     "genre": "Salsa",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/278223?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/278223?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0107",
     "title": "Best Of My Love",
     "artist": "The Emotions",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/90792?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4637,13 +4642,14 @@
     "genre": "R&B",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/90792?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/90792?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0110",
     "title": "Levitating",
     "artist": "Dua Lipa",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/146679?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4657,13 +4663,14 @@
     "genre": "Pop",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/146679?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/146679?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0112",
     "title": "Don't Stop The Music",
     "artist": "Rihanna",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/142027?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4677,13 +4684,14 @@
     "genre": "Pop",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/142027?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/142027?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0115",
     "title": "Everything",
     "artist": "Michael Bublé",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/106894?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4697,13 +4705,14 @@
     "genre": "Pop",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/106894?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/106894?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0117",
     "title": "Call Me Maybe",
     "artist": "Carly Rae Jepsen",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/156483?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4717,13 +4726,14 @@
     "genre": "Pop",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/156483?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/156483?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
   },
   {
     "id": "bpm-miri-jack-0118",
     "title": "Cake By The Ocean",
     "artist": "DNCE",
-    "album": "BPM Supreme",
+    "album": "",
     "duration": "",
     "source": "https://app.bpmsupreme.com/d/album/67476?library=main",
     "sourceLabel": "BPM Supreme",
@@ -4737,7 +4747,36 @@
     "genre": "",
     "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "albumSource": "BPM Supreme album page",
-    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/67476?library=main"
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/67476?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value."
+  },
+  {
+    "id": "bpm-apple-favorites-0003",
+    "title": "Yo Perreo Sola",
+    "artist": "Bad Bunny",
+    "album": "",
+    "duration": "2:52",
+    "source": "https://app.bpmsupreme.com/d/album/67476?library=main",
+    "sourceLabel": "BPM Supreme",
+    "owned": true,
+    "collection": "Apple Music Favorites",
+    "appleMusicSource": "https://music.apple.com/us/song/yo-perreo-sola/1500776331",
+    "crateStatus": "crate-added-partial",
+    "version": "Intro Dirty",
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "",
+    "fallbackVersion": "",
+    "highEnergy": true,
+    "bpm": 97,
+    "key": "E Min",
+    "genre": "Reggaeton",
+    "matchedTitle": "Yo Perreo Sola",
+    "matchedArtist": "Bad Bunny",
+    "appleMusicAlbum": "YHLQMDLG",
+    "albumSource": "BPM Supreme album page",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/album/67476?library=main",
+    "albumSourceNote": "Album unresolved: BPM album page returned a generic page title instead of a source album value.",
+    "crateStatusNote": "Intro version was added; quick-hit version was unavailable."
   },
   {
     "id": "bpm-apple-favorites-0005",
