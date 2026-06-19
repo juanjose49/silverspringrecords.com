@@ -4768,7 +4768,7 @@
     "id": "bpm-apple-favorites-0011",
     "title": "APT.",
     "artist": "ROSÉ, Bruno Mars",
-    "album": "APT. - Single",
+    "album": "",
     "duration": "2:49",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=APT%20ROSE&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4786,15 +4786,15 @@
     "matchedTitle": "APT.",
     "matchedArtist": "Rose & Bruno Mars",
     "appleMusicAlbum": "APT. - Single",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/apt/1773452221",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=APT%20ROSE&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0012",
     "title": "No Broke Boys",
     "artist": "Disco Lines, Tinashe",
-    "album": "No Broke Boys - Single",
+    "album": "",
     "duration": "2:43",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=No%20Broke%20Boys%20Disco%20Lines&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4812,15 +4812,15 @@
     "matchedTitle": "No Broke Boys",
     "matchedArtist": "Disco Lines & Tinashe",
     "appleMusicAlbum": "No Broke Boys - Single",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/no-broke-boys/1818761158",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=No%20Broke%20Boys%20Disco%20Lines&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0017",
     "title": "Smalltown Boy",
     "artist": "Bronski Beat",
-    "album": "The Age of Consent (Bonus Tracks) [1996 Remaster]",
+    "album": "",
     "duration": "5:02",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Smalltown%20Boy%20Bronski%20Beat&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4838,15 +4838,15 @@
     "matchedTitle": "Smalltown Boy",
     "matchedArtist": "Bronski Beat",
     "appleMusicAlbum": "The Age of Consent (Bonus Tracks) [1996 Remaster]",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/smalltown-boy/1320069110",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Smalltown%20Boy%20Bronski%20Beat&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0022",
     "title": "HUMBLE.",
     "artist": "Kendrick Lamar",
-    "album": "DAMN.",
+    "album": "",
     "duration": "2:57",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=HUMBLE%20Kendrick%20Lamar&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4864,15 +4864,15 @@
     "matchedTitle": "Humble.",
     "matchedArtist": "Kendrick Lamar",
     "appleMusicAlbum": "DAMN.",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/humble/1440881684",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=HUMBLE%20Kendrick%20Lamar&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0036",
     "title": "Piece Of Your Heart",
     "artist": "MEDUZA, Goodboys",
-    "album": "MEDUZA",
+    "album": "",
     "duration": "2:30",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Piece%20Of%20Your%20Heart%20MEDUZA&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4890,15 +4890,15 @@
     "matchedTitle": "Piece Of Your Heart",
     "matchedArtist": "Meduza ft Goodboys",
     "appleMusicAlbum": "MEDUZA",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/piece-of-your-heart/1706519080",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Piece%20Of%20Your%20Heart%20MEDUZA&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0052",
     "title": "Sunshine",
     "artist": "David Guetta, Avicii",
-    "album": "Nothing But the Beat Ultimate",
+    "album": "",
     "duration": "6:00",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Sunshine%20David%20Guetta&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4916,15 +4916,15 @@
     "matchedTitle": "Sunshine",
     "matchedArtist": "David Guetta & Avicii",
     "appleMusicAlbum": "Nothing But the Beat Ultimate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/sunshine/726391143",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Sunshine%20David%20Guetta&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0059",
     "title": "Moth To A Flame",
     "artist": "Swedish House Mafia, The Weeknd",
-    "album": "Paradise Again",
+    "album": "",
     "duration": "3:54",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Moth%20To%20A%20Flame%20Swedish%20House%20Mafia&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4942,15 +4942,15 @@
     "matchedTitle": "Moth To A Flame",
     "matchedArtist": "Swedish House Mafia & The Weeknd",
     "appleMusicAlbum": "Paradise Again",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/moth-to-a-flame/1618145602",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Moth%20To%20A%20Flame%20Swedish%20House%20Mafia&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0077",
     "title": "It Gets Better",
     "artist": "Swedish House Mafia",
-    "album": "It Gets Better - Single",
+    "album": "",
     "duration": "3:04",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=It%20Gets%20Better%20Swedish%20House%20Mafia&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4968,15 +4968,15 @@
     "matchedTitle": "It Gets Better",
     "matchedArtist": "Swedish House Mafia",
     "appleMusicAlbum": "It Gets Better - Single",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/it-gets-better/1576274992",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=It%20Gets%20Better%20Swedish%20House%20Mafia&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0079",
     "title": "Team",
     "artist": "Lorde",
-    "album": "Pure Heroine",
+    "album": "",
     "duration": "3:13",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Team%20Lorde&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -4994,15 +4994,15 @@
     "matchedTitle": "Team",
     "matchedArtist": "Lorde",
     "appleMusicAlbum": "Pure Heroine",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/team/1440818672",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Team%20Lorde&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0086",
     "title": "Wet (Snoop Dogg vs. David Guetta Remix)",
     "artist": "Snoop Dogg",
-    "album": "Doggumentary (Bonus Track Version)",
+    "album": "",
     "duration": "3:15",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Wet%20Snoop%20Dogg%20vs%20David%20Guetta%20Remix%20Snoop%20Dogg&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5020,15 +5020,15 @@
     "matchedTitle": "Wet (Snoop Dogg vs David Guetta Remix)",
     "matchedArtist": "Snoop Dogg & David Guetta",
     "appleMusicAlbum": "Doggumentary (Bonus Track Version)",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/wet-snoop-dogg-vs-david-guetta-remix/716731272",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Wet%20Snoop%20Dogg%20vs%20David%20Guetta%20Remix%20Snoop%20Dogg&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0088",
     "title": "Closer",
     "artist": "Kaskade",
-    "album": "Closer - Single",
+    "album": "",
     "duration": "4:40",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Closer%20Kaskade&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5046,15 +5046,15 @@
     "matchedTitle": "Closer",
     "matchedArtist": "Kaskade",
     "appleMusicAlbum": "Closer - Single",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/closer/1545711996",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Closer%20Kaskade&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0092",
     "title": "Pumped Up Kicks",
     "artist": "Foster the People",
-    "album": "Torches",
+    "album": "",
     "duration": "3:59",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Pumped%20Up%20Kicks%20Foster%20the%20People&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5072,15 +5072,15 @@
     "matchedTitle": "Pumped Up Kicks (BPM Supreme Bootleg)",
     "matchedArtist": "Foster The People vs Jewelz & Sparks",
     "appleMusicAlbum": "Torches",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/pumped-up-kicks/435761212",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Pumped%20Up%20Kicks%20Foster%20the%20People&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0097",
     "title": "Nightlight",
     "artist": "ILLENIUM, Annika Wells",
-    "album": "Nightlight - Single",
+    "album": "",
     "duration": "3:42",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Nightlight%20ILLENIUM&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5098,15 +5098,15 @@
     "matchedTitle": "Nightlight",
     "matchedArtist": "Illenium",
     "appleMusicAlbum": "Nightlight - Single",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/nightlight/1527249856",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Nightlight%20ILLENIUM&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0100",
     "title": "I Knew You Were Trouble",
     "artist": "Taylor Swift",
-    "album": "Red",
+    "album": "",
     "duration": "3:39",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=I%20Knew%20You%20Were%20Trouble%20Taylor%20Swift&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5124,15 +5124,15 @@
     "matchedTitle": "I Knew You Were Trouble",
     "matchedArtist": "Taylor Swift",
     "appleMusicAlbum": "Red",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/i-knew-you-were-trouble/1440935349",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=I%20Knew%20You%20Were%20Trouble%20Taylor%20Swift&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0101",
     "title": "Heads Will Roll",
     "artist": "Yeah Yeah Yeahs",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:41",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Heads%20Will%20Roll%20Yeah%20Yeah%20Yeahs&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5150,15 +5150,15 @@
     "matchedTitle": "Heads Will Roll",
     "matchedArtist": "Yeah Yeah Yeahs",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/heads-will-roll/1440784280",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Heads%20Will%20Roll%20Yeah%20Yeah%20Yeahs&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0103",
     "title": "Smells Like Teen Spirit",
     "artist": "Nirvana",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:01",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Smells%20Like%20Teen%20Spirit%20Nirvana&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5176,15 +5176,15 @@
     "matchedTitle": "Smells Like Teen Spirit",
     "matchedArtist": "Nirvana",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/smells-like-teen-spirit/1440783625",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Smells%20Like%20Teen%20Spirit%20Nirvana&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0106",
     "title": "Think About You",
     "artist": "Kygo, Valerie Broussard",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:28",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Think%20About%20You%20Kygo&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5202,15 +5202,15 @@
     "matchedTitle": "Think About You",
     "matchedArtist": "Kygo ft Valerie Broussard",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/think-about-you/1451649093",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Think%20About%20You%20Kygo&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0107",
     "title": "Thousand Faces",
     "artist": "Don Diablo, Andy Grammer",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:58",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Thousand%20Faces%20Don%20Diablo&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5228,15 +5228,15 @@
     "matchedTitle": "Thousand Faces",
     "matchedArtist": "Don Diablo ft Andy Grammer",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/thousand-faces/1513480526",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Thousand%20Faces%20Don%20Diablo&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0108",
     "title": "Bad",
     "artist": "Don Diablo, Zak Abel",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:49",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Bad%20Don%20Diablo&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5254,15 +5254,15 @@
     "matchedTitle": "Bad",
     "matchedArtist": "Don Diablo ft Zak Abel",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/bad/1501778009",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Bad%20Don%20Diablo&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0110",
     "title": "City Lights",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "6:28",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=City%20Lights%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5280,15 +5280,15 @@
     "matchedTitle": "City Lights",
     "matchedArtist": "Avicii",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/city-lights/1440834543",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=City%20Lights%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0125",
     "title": "Fireflies",
     "artist": "Owl City",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:48",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Fireflies%20Owl%20City&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5306,15 +5306,15 @@
     "matchedTitle": "FireFlies",
     "matchedArtist": "Owl City",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/fireflies/1440783289",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Fireflies%20Owl%20City&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0127",
     "title": "In Your Arms",
     "artist": "ILLENIUM, X Ambassadors",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:40",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=In%20Your%20Arms%20ILLENIUM&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5332,15 +5332,15 @@
     "matchedTitle": "In Your Arms",
     "matchedArtist": "Illenium & X Ambassadors",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/in-your-arms/1468053779",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=In%20Your%20Arms%20ILLENIUM&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0130",
     "title": "bury a friend",
     "artist": "Billie Eilish",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:13",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=bury%20a%20friend%20Billie%20Eilish&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5358,15 +5358,15 @@
     "matchedTitle": "Bury A Friend",
     "matchedArtist": "Billie Eilish",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/bury-a-friend/1450695881",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=bury%20a%20friend%20Billie%20Eilish&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0134",
     "title": "bad guy",
     "artist": "Billie Eilish",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:14",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=bad%20guy%20Billie%20Eilish&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5384,15 +5384,15 @@
     "matchedTitle": "bad guy",
     "matchedArtist": "Billie Eilish & Justin Bieber",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/bad-guy/1450695739",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=bad%20guy%20Billie%20Eilish&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0136",
     "title": "Hung Up",
     "artist": "Madonna",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:37",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Hung%20Up%20Madonna&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5410,15 +5410,15 @@
     "matchedTitle": "Hung Up",
     "matchedArtist": "Madonna",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/hung-up/91989806",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Hung%20Up%20Madonna&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0137",
     "title": "We Can Get High",
     "artist": "Galantis, Yellow Claw",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:36",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=We%20Can%20Get%20High%20Galantis&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5436,15 +5436,15 @@
     "matchedTitle": "We Can Get High",
     "matchedArtist": "Galantis & Yellow Claw",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/we-can-get-high/1496875875",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=We%20Can%20Get%20High%20Galantis&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0145",
     "title": "Me Gustas Tú",
     "artist": "Manu Chao",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:59",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Me%20Gustas%20Tu%20Manu%20Chao&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5462,15 +5462,15 @@
     "matchedTitle": "Me Gustas Tu",
     "matchedArtist": "Manu Chao",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/me-gustas-t%C3%BA/726124491",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Me%20Gustas%20Tu%20Manu%20Chao&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0148",
     "title": "Broken Arrows",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:52",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Broken%20Arrows%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5488,15 +5488,15 @@
     "matchedTitle": "Broken Arrows",
     "matchedArtist": "Avicii ft Zac Brown Band",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/broken-arrows/1440834528",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Broken%20Arrows%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0153",
     "title": "Shed a Light",
     "artist": "Robin Schulz, David Guetta, Cheat Codes",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:11",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Shed%20a%20Light%20Robin%20Schulz&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5514,15 +5514,15 @@
     "matchedTitle": "Shed A Light",
     "matchedArtist": "Robin Schulz & David Guetta ft Cheat Codes",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/shed-a-light/1234278475",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Shed%20a%20Light%20Robin%20Schulz&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0156",
     "title": "Little Talks",
     "artist": "Of Monsters and Men",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:26",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Little%20Talks%20Of%20Monsters%20and%20Men&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5540,15 +5540,15 @@
     "matchedTitle": "Little Talks",
     "matchedArtist": "Of Monsters and Men",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/little-talks/1440809330",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Little%20Talks%20Of%20Monsters%20and%20Men&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0169",
     "title": "Drew Barrymore",
     "artist": "Bryce Vine",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:11",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Drew%20Barrymore%20Bryce%20Vine&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5566,15 +5566,15 @@
     "matchedTitle": "Drew Barrymore",
     "matchedArtist": "Bryce Vine ft Wale",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/drew-barrymore/1425066293",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Drew%20Barrymore%20Bryce%20Vine&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0178",
     "title": "Anthem (We Love House Music)",
     "artist": "Don Diablo",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:37",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Anthem%20We%20Love%20House%20Music%20Don%20Diablo&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5592,15 +5592,15 @@
     "matchedTitle": "Anthem (We Love House Music)",
     "matchedArtist": "Don Diablo",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/anthem-we-love-house-music/1525256310",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Anthem%20We%20Love%20House%20Music%20Don%20Diablo&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0184",
     "title": "Open Your Eyes",
     "artist": "Sam Feldt, Hook N Sling",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:08",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Open%20Your%20Eyes%20Sam%20Feldt&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5618,15 +5618,15 @@
     "matchedTitle": "Open Your Eyes",
     "matchedArtist": "Sam Feldt & Hook N Sling",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/open-your-eyes/1337075382",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Open%20Your%20Eyes%20Sam%20Feldt&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0185",
     "title": "In the Dark",
     "artist": "DEV",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:46",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=In%20the%20Dark%20DEV&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5644,15 +5644,15 @@
     "matchedTitle": "In The Dark",
     "matchedArtist": "DEV",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/in-the-dark/1443742761",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=In%20the%20Dark%20DEV&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0188",
     "title": "The Nights",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:56",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=The%20Nights%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5670,15 +5670,15 @@
     "matchedTitle": "The Nights",
     "matchedArtist": "Avicii",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/the-nights/1440829549",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=The%20Nights%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0190",
     "title": "For a Better Day",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:26",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=For%20a%20Better%20Day%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5696,15 +5696,15 @@
     "matchedTitle": "For A Better Day",
     "matchedArtist": "Avicii",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/for-a-better-day/1440834339",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=For%20a%20Better%20Day%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0199",
     "title": "Intoxicated",
     "artist": "Martin Solveig, Good Times Ahead",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:17",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Intoxicated%20Martin%20Solveig&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5722,15 +5722,15 @@
     "matchedTitle": "Estamos Bien vs Intoxicated (BPM Supreme Bootleg)",
     "matchedArtist": "Bad Bunny vs Martin Solveig & Good Times Ahead",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/intoxicated/1043297503",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Intoxicated%20Martin%20Solveig&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0200",
     "title": "Forever",
     "artist": "Drake, Kanye West, Lil Wayne, Eminem",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:57",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Forever%20Drake&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5748,15 +5748,15 @@
     "matchedTitle": "Forever",
     "matchedArtist": "Drake ft Kanye West, Lil Wayne",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/forever/1443077424",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Forever%20Drake&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0204",
     "title": "Stronger",
     "artist": "Kanye West",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:11",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Stronger%20Kanye%20West&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5774,15 +5774,15 @@
     "matchedTitle": "Stronger",
     "matchedArtist": "Kanye West",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/stronger/1451902446",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Stronger%20Kanye%20West&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0209",
     "title": "Started From the Bottom",
     "artist": "Drake",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "2:53",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Started%20From%20the%20Bottom%20Drake&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5800,15 +5800,15 @@
     "matchedTitle": "Started From The Bottom",
     "matchedArtist": "Drake",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/started-from-the-bottom/1440829611",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Started%20From%20the%20Bottom%20Drake&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0225",
     "title": "Reaching Out",
     "artist": "Bassnectar",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:54",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Reaching%20Out%20Bassnectar&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5826,15 +5826,15 @@
     "matchedTitle": "Reaching Out",
     "matchedArtist": "Bassnectar",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/reaching-out/1520664434",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Reaching%20Out%20Bassnectar&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0230",
     "title": "The Island (Steve Angello, AN21, Max Vangeli Remix)",
     "artist": "Pendulum",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "6:40",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=The%20Island%20Steve%20Angello%20AN21%20Max%20Vangeli%20Remix%20Pendulum&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5852,15 +5852,15 @@
     "matchedTitle": "The Island (Steve Angello, AN21, Max Vangeli Remix)",
     "matchedArtist": "Pendulum",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/the-island-steve-angello-an21-max-vangeli-remix/408307507",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=The%20Island%20Steve%20Angello%20AN21%20Max%20Vangeli%20Remix%20Pendulum&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0231",
     "title": "Fight for You",
     "artist": "Morgan Page",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:57",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Fight%20for%20You%20Morgan%20Page&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5878,15 +5878,15 @@
     "matchedTitle": "Fight For You",
     "matchedArtist": "Morgan Page",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/fight-for-you/351694418",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Fight%20for%20You%20Morgan%20Page&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0247",
     "title": "Levels",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:38",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Levels%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5904,15 +5904,15 @@
     "matchedTitle": "Levels",
     "matchedArtist": "Avicii",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/levels/1440787349",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Levels%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0249",
     "title": "This Girl",
     "artist": "Kungs, Cookin' On 3 Burners",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:15",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=This%20Girl%20Kungs&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5930,15 +5930,15 @@
     "matchedTitle": "This Girl",
     "matchedArtist": "Kungs vs Cookin On 3 Burners",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/this-girl/1440894921",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=This%20Girl%20Kungs&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0266",
     "title": "A Sky Full of Stars",
     "artist": "Coldplay",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:27",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=A%20Sky%20Full%20of%20Stars%20Coldplay&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5956,15 +5956,15 @@
     "matchedTitle": "A Sky Full Of Stars",
     "matchedArtist": "Coldplay",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/a-sky-full-of-stars/1774284331",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=A%20Sky%20Full%20of%20Stars%20Coldplay&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0273",
     "title": "Animals",
     "artist": "Martin Garrix",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "5:04",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Animals%20Martin%20Garrix&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -5982,15 +5982,15 @@
     "matchedTitle": "Animals",
     "matchedArtist": "Martin Garrix",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/animals/1670593167",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Animals%20Martin%20Garrix&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0274",
     "title": "Hello",
     "artist": "Martin Solveig, Dragonette",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:41",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Hello%20Martin%20Solveig&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -6008,15 +6008,15 @@
     "matchedTitle": "Hello",
     "matchedArtist": "Martin Solveig & Dragonette",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/hello/405926184",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Hello%20Martin%20Solveig&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0279",
     "title": "Rapture (Avicii New Generation Mix)",
     "artist": "Nadia Ali",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:41",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Rapture%20Avicii%20New%20Generation%20Mix%20Nadia%20Ali&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -6034,15 +6034,15 @@
     "matchedTitle": "Rapture (Avicii New Generation Mix)",
     "matchedArtist": "Nadia Ali",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/rapture-avicii-new-generation-mix/411864197",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Rapture%20Avicii%20New%20Generation%20Mix%20Nadia%20Ali&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0282",
     "title": "Wake Me Up",
     "artist": "Avicii",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "4:09",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Wake%20Me%20Up%20Avicii&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -6060,15 +6060,15 @@
     "matchedTitle": "Wake Me Up",
     "matchedArtist": "Avicii ft Aloe Blacc",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/wake-me-up/1440872929",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Wake%20Me%20Up%20Avicii&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0285",
     "title": "I Took a Pill in Ibiza (Seeb Remix)",
     "artist": "Mike Posner",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:17",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=I%20Took%20a%20Pill%20in%20Ibiza%20Seeb%20Remix%20Mike%20Posner&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -6086,15 +6086,15 @@
     "matchedTitle": "I Took A Pill In Ibiza (SeeB Remix)",
     "matchedArtist": "Mike Posner",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/i-took-a-pill-in-ibiza-seeb-remix/1440833726",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=I%20Took%20a%20Pill%20in%20Ibiza%20Seeb%20Remix%20Mike%20Posner&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   },
   {
     "id": "bpm-apple-favorites-0293",
     "title": "Look What You Made Me Do",
     "artist": "Taylor Swift",
-    "album": "Apple Music Favorites crate",
+    "album": "",
     "duration": "3:31",
     "source": "https://app.bpmsupreme.com/d/search?searchTerm=Look%20What%20You%20Made%20Me%20Do%20Taylor%20Swift&type=tracks&library=main",
     "sourceLabel": "BPM Supreme",
@@ -6112,8 +6112,8 @@
     "matchedTitle": "Look What You Made Me Do",
     "matchedArtist": "Taylor Swift",
     "appleMusicAlbum": "Apple Music Favorites crate",
-    "albumSource": "Apple Music fallback",
-    "albumSourceUrl": "https://music.apple.com/us/song/look-what-you-made-me-do/1440934255",
-    "albumSourceNote": "BPM source is a search URL and does not expose a track album page in the rendered result."
+    "albumSource": "BPM Supreme search URL",
+    "albumSourceUrl": "https://app.bpmsupreme.com/d/search?searchTerm=Look%20What%20You%20Made%20Me%20Do%20Taylor%20Swift&type=tracks&library=main",
+    "albumSourceNote": "Album unresolved: this BPM source URL is a search-results page and does not expose a source album value."
   }
 ]
