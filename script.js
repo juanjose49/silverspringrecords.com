@@ -34,17 +34,31 @@ if (collectionTable) {
   const countLabel = document.getElementById("collection-count");
   const globalFilter = document.getElementById("collection-global-filter");
   const columnFilters = Array.from(collectionTable.querySelectorAll("[data-column-filter]"));
+  const pageSizeSelect = document.getElementById("collection-page-size");
+  const previousPageButton = document.getElementById("collection-prev-page");
+  const nextPageButton = document.getElementById("collection-next-page");
+  const pageStatus = document.getElementById("collection-page-status");
   let collectionRows = [];
+  let currentPage = 1;
 
   const searchableColumns = ["title", "artist", "album", "duration", "source"];
-  const normalizeFilter = (value) => String(value || "").toLowerCase().trim();
-  const isUrl = (value) => /^https?:\/\//i.test(String(value || ""));
+  const getValue = (value) => value == null ? "" : String(value);
+  const normalizeFilter = (value) => getValue(value).toLowerCase().trim();
+  const isUrl = (value) => /^https?:\/\//i.test(getValue(value));
+  const getPageSize = () => {
+    const parsedSize = Number(pageSizeSelect ? pageSizeSelect.value : 25);
+    return [25, 50, 100].includes(parsedSize) ? parsedSize : 25;
+  };
   const getColumnValue = (row, column) => {
     if (column === "source") {
       return [row.sourceLabel, row.source].filter(Boolean).join(" ");
     }
 
-    return row[column] || "";
+    return getValue(row[column]);
+  };
+
+  const resetCollectionPage = () => {
+    currentPage = 1;
   };
 
   const renderCollection = () => {
@@ -65,8 +79,30 @@ if (collectionTable) {
       return globalMatch && columnMatch;
     });
 
+    const pageSize = getPageSize();
+    const pageCount = Math.max(1, Math.ceil(filteredRows.length / pageSize));
+    currentPage = Math.min(Math.max(currentPage, 1), pageCount);
+    const startIndex = (currentPage - 1) * pageSize;
+    const pageRows = filteredRows.slice(startIndex, startIndex + pageSize);
+    const firstShown = filteredRows.length ? startIndex + 1 : 0;
+    const lastShown = startIndex + pageRows.length;
+
     if (countLabel) {
-      countLabel.textContent = `${filteredRows.length} of ${collectionRows.length} tracks shown`;
+      countLabel.textContent = filteredRows.length
+        ? `Showing ${firstShown}-${lastShown} of ${filteredRows.length} filtered tracks (${collectionRows.length} total)`
+        : `0 of ${collectionRows.length} tracks shown`;
+    }
+
+    if (pageStatus) {
+      pageStatus.textContent = `Page ${currentPage} of ${pageCount}`;
+    }
+
+    if (previousPageButton) {
+      previousPageButton.disabled = currentPage <= 1 || !filteredRows.length;
+    }
+
+    if (nextPageButton) {
+      nextPageButton.disabled = currentPage >= pageCount || !filteredRows.length;
     }
 
     if (!tbody) {
@@ -85,11 +121,12 @@ if (collectionTable) {
       return;
     }
 
-    filteredRows.forEach((track) => {
+    pageRows.forEach((track) => {
       const row = document.createElement("tr");
 
       searchableColumns.forEach((column) => {
         const cell = document.createElement("td");
+        cell.dataset.label = column.charAt(0).toUpperCase() + column.slice(1);
         if (column === "source" && isUrl(track.source)) {
           const link = document.createElement("a");
           link.href = track.source;
@@ -98,7 +135,7 @@ if (collectionTable) {
           link.target = "_blank";
           cell.appendChild(link);
         } else {
-          cell.textContent = track[column] || "";
+          cell.textContent = getColumnValue(track, column);
         }
         row.appendChild(cell);
       });
@@ -128,10 +165,37 @@ if (collectionTable) {
     });
 
   if (globalFilter) {
-    globalFilter.addEventListener("input", renderCollection);
+    globalFilter.addEventListener("input", () => {
+      resetCollectionPage();
+      renderCollection();
+    });
   }
 
   columnFilters.forEach((input) => {
-    input.addEventListener("input", renderCollection);
+    input.addEventListener("input", () => {
+      resetCollectionPage();
+      renderCollection();
+    });
   });
+
+  if (pageSizeSelect) {
+    pageSizeSelect.addEventListener("change", () => {
+      resetCollectionPage();
+      renderCollection();
+    });
+  }
+
+  if (previousPageButton) {
+    previousPageButton.addEventListener("click", () => {
+      currentPage -= 1;
+      renderCollection();
+    });
+  }
+
+  if (nextPageButton) {
+    nextPageButton.addEventListener("click", () => {
+      currentPage += 1;
+      renderCollection();
+    });
+  }
 }
