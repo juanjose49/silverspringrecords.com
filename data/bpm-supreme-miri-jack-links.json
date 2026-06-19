@@ -7,8 +7,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Stumblin In CYRIL",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 2,
@@ -18,8 +26,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Moonlit Floor Kiss Me LISA",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 3,
@@ -28,9 +44,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "can t slow down almost monday",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/267539?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "can't slow down - generic: \"1\" - button \"can't slow down\": - img \"can't slow down\" - generic: can't slow down - link \"almost monday\": - /url: /d/artist/almost-monday - button \"127\" - button \"F Min\" - link \"Alternative\": - /url: /d/genres?genre=alternative - bu",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 127,
+    "key": "F Min",
+    "genre": "Alternative"
   },
   {
     "index": 4,
@@ -40,8 +68,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Flower Child Kacey Musgraves",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 5,
@@ -51,8 +87,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Ladies Room Olivia Dean",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 6,
@@ -62,8 +106,23 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "2 Be Loved Am I Ready Lizzo",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "matched-no-actions-visible",
+    "matchedTitle": "Be Loved (Am I Ready) - generic: \"1\" - button \"Be Loved (Am I Ready)\": - img \"Be Loved (Am I Ready)\" - generic: Be Loved (Am I Ready) - link \"Lizzo\": - /url: /d/artist/lizzo - button \"78\" - button \"A Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\":",
+    "versionsAvailable": [
+      "C",
+      "D",
+      "IC",
+      "ID",
+      "QHC",
+      "QHD"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 78,
+    "key": "A Min",
+    "genre": "Pop"
   },
   {
     "index": 7,
@@ -72,9 +131,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Upside Down Diana Ross",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/115773?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Upside Down - generic: \"1\" - button \"Upside Down\": - img \"Upside Down\" - generic: Upside Down - link \"Diana Ross\": - /url: /d/artist/diana-ross - button \"108\" - button \"G Min\" - link \"Disco\": - /url: /d/genres?genre=disco - button \"C\": - generic: C - button \"I",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 108,
+    "key": "G Min",
+    "genre": "Disco"
   },
   {
     "index": 8,
@@ -83,9 +154,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "How Bizarre OMC",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/98928?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "How Bizarre - generic: \"1\" - button \"How Bizarre\": - img \"How Bizarre\" - generic: How Bizarre - link \"OMC\": - /url: /d/artist/omc - button \"125\" - button \"C Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"IC\": - generic: IC ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 125,
+    "key": "C Min",
+    "genre": "Pop"
   },
   {
     "index": 9,
@@ -95,8 +178,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Don t Stop Til You Get Enough 2003 Edit Michael Jackson",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 10,
@@ -106,8 +197,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Stayin Alive From Saturday Night Fever Soundtrack Bee Gees",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Stayin Alive - generic: \"1\" - button \"Stayin Alive\": - img \"Stayin Alive\" - generic: Stayin Alive - link \"Bee Gees\": - /url: /d/artist/bee-gees - button \"104\" - button \"A♯ Min\" - link \"Disco\": - /url: /d/genres?genre=disco - button \"C\": - generic: C - button \"",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 104,
+    "key": "A♯ Min",
+    "genre": "Disco"
   },
   {
     "index": 11,
@@ -116,9 +219,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Love Of Your Life RAYE",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/149624?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Love Of Your Life - generic: \"1\" - button \"Love Of Your Life\": - img \"Love Of Your Life\" - generic: Love Of Your Life - link \"RAYE\": - /url: /d/artist/raye - button \"112\" - button \"A♯ Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"D\": - generic: D - ",
+    "versionsAvailable": [
+      "D",
+      "ID",
+      "QHD"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "Quick Hit Dirty",
+    "highEnergy": true,
+    "bpm": 112,
+    "key": "A♯ Min",
+    "genre": "Pop"
   },
   {
     "index": 12,
@@ -127,9 +242,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "It Ain t Over Til It s Over Lenny Kravitz",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/76101?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "It Ain't Over 'Til It's Over - generic: \"1\" - button \"It Ain't Over 'Til It's Over\": - img \"It Ain't Over 'Til It's Over\" - generic: It Ain't Over 'Til It's Over - link \"Lenny Kravitz\": - /url: /d/artist/lenny-kravitz - button \"80\" - button \"C♯ Min\" - link \"R&",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 13,
@@ -139,8 +266,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "People Watching Sam Fender",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 14,
@@ -149,9 +284,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Love You For A Long Time Maggie Rogers",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/137889?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Love You For A Long Time - generic: \"1\" - button \"Love You For A Long Time\": - img \"Love You For A Long Time\" - generic: Love You For A Long Time - link \"Maggie Rogers\": - /url: /d/artist/maggie-rogers - button \"113\" - button \"A Maj\" - link \"Alternative\": - /u",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 113,
+    "key": "A Maj",
+    "genre": "Alternative"
   },
   {
     "index": 15,
@@ -161,8 +308,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Hypotheticals Lake Street Dive",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 16,
@@ -171,9 +326,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Dancing Queen ABBA",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/123571?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Dancing Queen - generic: \"1\" - button \"Dancing Queen\": - img \"Dancing Queen\" - generic: Dancing Queen - link \"ABBA\": - /url: /d/artist/abba - button \"100\" - button \"A Maj\" - link \"Disco\": - /url: /d/genres?genre=disco - button \"C\": - generic: C - button \"IC\": ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 100,
+    "key": "A Maj",
+    "genre": "Disco"
   },
   {
     "index": 17,
@@ -182,9 +349,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "All I Wanna Do Sheryl Crow",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/106334?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "All I Wanna Do - generic: \"1\" - button \"All I Wanna Do\": - img \"All I Wanna Do\" - generic: All I Wanna Do - link \"Sheryl Crow\": - /url: /d/artist/sheryl-crow - button \"120\" - button \"E Min\" - link \"Country\": - /url: /d/genres?genre=country - button \"C\": - gene",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 120,
+    "key": "E Min",
+    "genre": "Country"
   },
   {
     "index": 18,
@@ -194,8 +373,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "September Earth Wind Fire",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 19,
@@ -204,9 +391,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Blinding Lights The Weeknd",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/137982?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Blinding Lights - generic: \"1\" - button \"Blinding Lights\": - img \"Blinding Lights\" - generic: Blinding Lights - link \"The Weeknd\": - /url: /d/artist/the-weeknd - button \"86\" - button \"F Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 86,
+    "key": "F Min",
+    "genre": "Pop"
   },
   {
     "index": 20,
@@ -215,9 +414,22 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Don t Start Now Dua Lipa",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/136660?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Don't Start Now - generic: \"1\" - button \"Don't Start Now\": - img \"Don't Start Now\" - generic: Don't Start Now - link \"Dua Lipa\": - /url: /d/artist/dua-lipa - button \"124\" - button \"E Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - b",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC",
+      "I"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 124,
+    "key": "E Min",
+    "genre": "Pop"
   },
   {
     "index": 21,
@@ -227,8 +439,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "P Y T Pretty Young Thing Michael Jackson",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 22,
@@ -238,8 +458,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "High Horse Kacey Musgraves",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "High Horse (Kue Remix) - generic: \"1\" - button \"High Horse (Kue Remix)\": - img \"High Horse (Kue Remix)\" - text: High Horse ( - link \"Kue\": - /url: /d/artist/kue - text: Remix) - link \"Kacey Musgraves\": - /url: /d/artist/kacey-musgraves - button \"123\" - button ",
+    "versionsAvailable": [
+      "CE",
+      "CSE",
+      "CRE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 23,
@@ -249,8 +481,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Happier Times Ahead RAYE",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 24,
@@ -260,8 +500,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "You Can t Hurry Love Live At Jools Annual Hootenanny Olivia Dean Jools Holland",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 25,
@@ -271,8 +519,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Good as Hell feat Ariana Grande Lizzo Ariana Grande",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 26,
@@ -282,8 +538,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "More Than A Woman SG s Paradise Edit Bee Gees SG Lewis",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 27,
@@ -293,8 +557,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Material Girl Madonna",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 28,
@@ -304,8 +576,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Your Love The Outfield",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 29,
@@ -314,9 +594,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "She Drives Me Crazy Fine Young Cannibals",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/113141?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "She Drives Me Crazy - generic: \"1\" - button \"She Drives Me Crazy\": - img \"She Drives Me Crazy\" - generic: She Drives Me Crazy - link \"Fine Young Cannibals\": - /url: /d/artist/fine-young-cannibals - button \"109\" - button \"D Maj\" - link \"Pop\": - /url: /d/genres?",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 109,
+    "key": "D Maj",
+    "genre": "Pop"
   },
   {
     "index": 30,
@@ -326,8 +618,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Solsbury Hill Peter Gabriel",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "matched-no-actions-visible",
+    "matchedTitle": "Solisbury Hill - generic: \"1\" - button \"Solisbury Hill\": - img \"Solisbury Hill\" - generic: Solisbury Hill - link \"Peter Gabriel\": - /url: /d/artist/peter-gabriel - button \"103\" - button \"B Maj\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic:",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 103,
+    "key": "B Maj",
+    "genre": "Pop"
   },
   {
     "index": 31,
@@ -337,8 +641,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Levitating feat DaBaby Dua Lipa DaBaby",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 32,
@@ -347,9 +659,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Save Tonight Eagle Eye Cherry",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/119609?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Save Tonight - generic: \"1\" - button \"Save Tonight\": - img \"Save Tonight\" - generic: Save Tonight - link \"Eagle-Eye Cherry\": - /url: /d/artist/eagleeye-cherry - button \"119\" - button \"A Min\" - link \"Rock\": - /url: /d/genres?genre=rock - button \"C\": - generic: ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 119,
+    "key": "A Min",
+    "genre": "Rock"
   },
   {
     "index": 33,
@@ -358,9 +682,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Dive Olivia Dean",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/249044?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Dive - generic: \"1\" - button \"Dive\": - img \"Dive\" - generic: Dive - link \"Olivia Dean\": - /url: /d/artist/olivia-dean - button \"90\" - button \"E Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"IC\": - generic: IC - button \"QHC",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 90,
+    "key": "E Min",
+    "genre": "Pop"
   },
   {
     "index": 34,
@@ -369,9 +705,20 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Feel It Still Portugal The Man",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/94064?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Feel It Still - generic: \"1\" - button \"Feel It Still\": - img \"Feel It Still\" - generic: Feel It Still - link \"Portugal. The Man\": - /url: /d/artist/portugal-the-man - button \"79\" - button \"F♯ Min\" - link \"Alternative\": - /url: /d/genres?genre=alternative - but",
+    "versionsAvailable": [
+      "C",
+      "IC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 79,
+    "key": "F♯ Min",
+    "genre": "Alternative"
   },
   {
     "index": 35,
@@ -381,8 +728,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "About Damn Time Purple Disco Machine Remix Lizzo Purple Disco Machine",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 36,
@@ -391,9 +746,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Ahora Te Puedes Marchar Luis Miguel",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/281477?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Ahora Te Puedes Marchar - generic: \"1\" - button \"Ahora Te Puedes Marchar\": - img \"Ahora Te Puedes Marchar\" - generic: Ahora Te Puedes Marchar - link \"Luis Miguel\": - /url: /d/artist/luis-miguel - button \"133\" - button \"C♯ Min\" - link \"Latin Pop\": - /url: /d/ge",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 133,
+    "key": "C♯ Min",
+    "genre": "Latin Pop"
   },
   {
     "index": 37,
@@ -402,9 +769,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "La Camisa Negra Juanes",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/252476?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "La Camisa Negra - generic: \"1\" - button \"La Camisa Negra\": - img \"La Camisa Negra\" - generic: La Camisa Negra - link \"Juanes\": - /url: /d/artist/juanes - button \"97\" - button \"F♯ Min\" - link \"Latin Pop\": - /url: /d/genres?genre=latin-pop - button \"C\": - generi",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 97,
+    "key": "F♯ Min",
+    "genre": "Latin Pop"
   },
   {
     "index": 38,
@@ -414,8 +793,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Tu Mirada Reik",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 39,
@@ -424,9 +811,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Para No Verte Mas La Mosca",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/262279?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Para No Verte Mas - generic: \"1\" - button \"Para No Verte Mas\": - img \"Para No Verte Mas\" - generic: Para No Verte Mas - link \"La Mosca Tse Tse\": - /url: /d/artist/la-mosca-tse-tse- - button \"99\" - button \"A Min\" - link \"Rock En Espanol\": - /url: /d/genres?genr",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 99,
+    "key": "A Min",
+    "genre": "Rock En Espanol"
   },
   {
     "index": 40,
@@ -436,8 +835,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "La Chona Los Tucanes De Tijuana",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "match-not-unique-visible",
+    "matchedTitle": "La Chona - generic: \"1\" - button \"La Chona\": - img \"La Chona\" - generic: La Chona - link \"Los Tucanes de Tijuana\": - /url: /d/artist/los-tucanes-de-tijuana - button \"146\" - button \"G Maj\" - link \"Latin Pop\": - /url: /d/genres?genre=latin-pop - button \"C\": - ge",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 146,
+    "key": "G Maj",
+    "genre": "Latin Pop"
   },
   {
     "index": 41,
@@ -446,9 +857,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "La Vida Es Un Carnaval Celia Cruz",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/269509?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "La Vida Es Un Carnaval - generic: \"1\" - button \"La Vida Es Un Carnaval\": - img \"La Vida Es Un Carnaval\" - generic: La Vida Es Un Carnaval - link \"Celia Cruz\": - /url: /d/artist/celia-cruz - button \"104\" - button \"D♯ Maj\" - link \"Salsa\": - /url: /d/genres?genre",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 104,
+    "key": "D♯ Maj",
+    "genre": "Salsa"
   },
   {
     "index": 42,
@@ -457,9 +880,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Amor Prohibido Selena",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/153313?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Amor Prohibido - generic: \"1\" - button \"Amor Prohibido\": - img \"Amor Prohibido\" - generic: Amor Prohibido - link \"Selena\": - /url: /d/artist/selena - button \"90\" - button \"A Min\" - link \"Latin Pop\": - /url: /d/genres?genre=latin-pop - button \"C\": - generic: C ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 90,
+    "key": "A Min",
+    "genre": "Latin Pop"
   },
   {
     "index": 43,
@@ -468,9 +903,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Night Fever From Saturday Night Fever Soundtrack Bee Gees",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/123572?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Night Fever - generic: \"1\" - button \"Night Fever\": - img \"Night Fever\" - generic: Night Fever - link \"Bee Gees\": - /url: /d/artist/bee-gees - button \"109\" - button \"F♯ Min\" - link \"Disco\": - /url: /d/genres?genre=disco - button \"C\": - generic: C - button \"IC\":",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 109,
+    "key": "F♯ Min",
+    "genre": "Disco"
   },
   {
     "index": 44,
@@ -480,8 +927,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "You Should Be Dancing Bee Gees",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "You Should Be Dancing - generic: \"1\" - button \"You Should Be Dancing\": - img \"You Should Be Dancing\" - generic: You Should Be Dancing - link \"Bee Gees\": - /url: /d/artist/bee-gees - button \"123\" - button \"G Min\" - link \"Disco\": - /url: /d/genres?genre=disco - ",
+    "versionsAvailable": [
+      "CE",
+      "CSE",
+      "CRE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": true,
+    "bpm": 123,
+    "key": "G Min",
+    "genre": "Disco"
   },
   {
     "index": 45,
@@ -490,9 +949,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Celebration Kool The Gang",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/116721?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Celebration - generic: \"1\" - button \"Celebration\": - img \"Celebration\" - generic: Celebration - link \"Kool & The Gang\": - /url: /d/artist/kool-the-gang - button \"122\" - button \"G♯ Min\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"C\": - generic: C - butt",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 122,
+    "key": "G♯ Min",
+    "genre": "R&B"
   },
   {
     "index": 46,
@@ -502,8 +973,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "I Wanna Dance with Somebody Who Loves Me Whitney Houston",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 47,
@@ -513,8 +992,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Boogie Wonderland with The Emotions Earth Wind Fire The Emotions",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 48,
@@ -524,8 +1011,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Play That Funky Music Wild Cherry",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 49,
@@ -535,8 +1030,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Conga Miami Sound Machine Gloria Estefan",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 50,
@@ -545,9 +1048,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Maniac From Flashdance Michael Sembello",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/99207?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Maniac - generic: \"1\" - button \"Maniac\": - img \"Maniac\" - generic: Maniac - link \"Michael Sembello\": - /url: /d/artist/michael-sembello - button \"78\" - button \"D♯ Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"IC\": - generi",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 78,
+    "key": "D♯ Min",
+    "genre": "Pop"
   },
   {
     "index": 51,
@@ -556,9 +1071,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Superstition Stevie Wonder",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/124500?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Superstition - generic: \"1\" - button \"Superstition\": - img \"Superstition\" - generic: Superstition - link \"Stevie Wonder\": - /url: /d/artist/stevie-wonder - button \"97\" - button \"D♯ Min\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"C\": - generic: C - but",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 97,
+    "key": "D♯ Min",
+    "genre": "R&B"
   },
   {
     "index": 52,
@@ -568,8 +1095,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Kokomo The Beach Boys",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 53,
@@ -578,9 +1113,22 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Can t Take My Eyes off You Frankie Valli",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/288660?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Can't Take My Eyes Off You - generic: \"1\" - button \"Can't Take My Eyes Off You\": - img \"Can't Take My Eyes Off You\" - generic: Can't Take My Eyes Off You - link \"Frankie Valli\": - /url: /d/artist/frankie-valli - button \"124\" - button \"E Maj\" - link \"Pop\": - /u",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC",
+      "I"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 124,
+    "key": "E Maj",
+    "genre": "Pop"
   },
   {
     "index": 54,
@@ -590,8 +1138,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Sweet Caroline Neil Diamond",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "Sweet Caroline - generic: \"1\" - button \"Sweet Caroline\": - img \"Sweet Caroline\" - generic: Sweet Caroline - link \"Neil Diamond\": - /url: /d/artist/neil-diamond - button \"124\" - button \"B Maj\" - link \"Rock\": - /url: /d/genres?genre=rock - button \"CE\": - generic",
+    "versionsAvailable": [
+      "CE",
+      "CSE",
+      "CRE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": true,
+    "bpm": 124,
+    "key": "B Maj",
+    "genre": "Rock"
   },
   {
     "index": 55,
@@ -600,9 +1160,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Pink Pony Club Chappell Roan",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/145091?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Pink Pony Club - generic: \"1\" - button \"Pink Pony Club\": - img \"Pink Pony Club\" - generic: Pink Pony Club - link \"Chappell Roan\": - /url: /d/artist/chappell-roan - button \"107\" - button \"D♯ Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 107,
+    "key": "D♯ Min",
+    "genre": "Pop"
   },
   {
     "index": 56,
@@ -612,8 +1184,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Kung Fu Fighting Carl Douglas",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 57,
@@ -623,8 +1203,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Build Me Up Buttercup Mono The Foundations",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 58,
@@ -634,8 +1222,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "You Can t Hurry Love 2016 Remaster Phil Collins",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 59,
@@ -645,8 +1241,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Livin la Vida Loca Ricky Martin",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 60,
@@ -656,8 +1260,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Upside Down Jack Johnson",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 61,
@@ -667,8 +1279,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Boogie Shoes 2004 Remaster KC The Sunshine Band",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 62,
@@ -678,8 +1298,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Billie Jean Michael Jackson",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 63,
@@ -689,8 +1317,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Haven t Met You Yet Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 64,
@@ -700,8 +1336,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "I Only Have Eyes for You Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 65,
@@ -711,8 +1355,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Unforgettable Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 66,
@@ -722,8 +1374,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Spicy Margarita Jason Derulo Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 67,
@@ -733,8 +1393,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Lambada Original Version 1989 Kaoma",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 68,
@@ -744,8 +1412,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "September Earth Wind Fire",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 69,
@@ -755,8 +1431,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Celebration Single Version Kool The Gang",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 70,
@@ -766,8 +1450,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Mustang Sally Wilson Pickett",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 71,
@@ -777,8 +1469,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "You Sexy Thing Hot Chocolate",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "You Sexy Thing - generic: \"1\" - button \"You Sexy Thing\": - img \"You Sexy Thing\" - generic: You Sexy Thing - link \"Hot Chocolate\": - /url: /d/artist/hot-chocolate - button \"106\" - button \"F Maj\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"CE\": - generic",
+    "versionsAvailable": [
+      "CE",
+      "CSE",
+      "CRE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 106,
+    "key": "F Maj",
+    "genre": "R&B"
   },
   {
     "index": 72,
@@ -788,8 +1492,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Rock the Boat Hues Corporation",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 73,
@@ -799,8 +1511,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Single Ladies Put a Ring on It Beyonce",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 74,
@@ -810,8 +1530,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Perfect Ed Sheeran",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "match-not-unique-visible",
+    "matchedTitle": "Perfect - generic: \"1\" - button \"Perfect\": - img \"Perfect\" - generic: Perfect - link \"Ed Sheeran\": - /url: /d/artist/ed-sheeran - text: \"&\" - link \"Beyoncé\": - /url: /d/artist/beyonc - button \"63\" - button \"G♯ Maj\" - link \"Pop\": - /url: /d/genres?genre=pop - b",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 63,
+    "key": "G♯ Maj",
+    "genre": "Pop"
   },
   {
     "index": 75,
@@ -821,8 +1553,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Cruel Summer LP Giobbi Remix Extended Version Taylor Swift LP Giobbi",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 76,
@@ -832,8 +1572,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Rock This Party Everybody Dance Now Bob Sinclar Cutee B DollarMan Big Ali Makedah",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 77,
@@ -843,8 +1591,18 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Mr Saxobeat Alexandra Stan",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "Mr. Saxobeat (BPM Supreme Edit) - generic: \"1\" - button \"Mr. Saxobeat (BPM Supreme Edit)\": - img \"Mr. Saxobeat (BPM Supreme Edit)\" - text: Mr. Saxobeat ( - link \"BPM Supreme\": - /url: /d/artist/bpm-supreme - text: Edit) - link \"Alexandra Stan\": - /url: /d/arti",
+    "versionsAvailable": [
+      "C"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 78,
@@ -854,8 +1612,19 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Oye Como Va Tito Puente",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "Oye Como Va (BPMLatino Bootleg) - generic: \"1\" - button \"Oye Como Va (BPMLatino Bootleg)\": - img \"Oye Como Va (BPMLatino Bootleg)\" - text: Oye Como Va ( - link \"BPMLatino\": - /url: /d/artist/bpmlatino - text: Bootleg) - link \"Tito Puente\": - /url: /d/artist/ti",
+    "versionsAvailable": [
+      "CE",
+      "CSE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 79,
@@ -865,8 +1634,18 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "We No Speak Americano Edit Yolanda Be Cool DCup",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "We No Speak Americano (BPM Supreme Edit) - generic: \"3\" - button \"We No Speak Americano (BPM Supreme Edit)\": - img \"We No Speak Americano (BPM Supreme Edit)\" - text: We No Speak Americano ( - link \"BPM Supreme\": - /url: /d/artist/bpm-supreme - text: Edit) - li",
+    "versionsAvailable": [
+      "C"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 80,
@@ -876,8 +1655,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Mambo No 5 Perez Prado",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 81,
@@ -887,8 +1674,18 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Vivir Mi Vida Marc Anthony",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "Vivir Mi Vida (Kaos VIP 2K16 Sevilla Bootleg) - generic: \"1\" - button \"Vivir Mi Vida (Kaos VIP 2K16 Sevilla Bootleg)\": - img \"Vivir Mi Vida (Kaos VIP 2K16 Sevilla Bootleg)\" - generic: Vivir Mi Vida (Kaos VIP 2K16 Sevilla Bootleg) - link \"Marc Anthony\": - /url:",
+    "versionsAvailable": [
+      "C"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 82,
@@ -898,8 +1695,23 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "I Like It Cardi B Bad Bunny J Balvin",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "match-not-unique-visible",
+    "matchedTitle": "I Like It - generic: \"1\" - button \"I Like It\": - img \"I Like It\" - generic: I Like It - link \"Cardi B\": - /url: /d/artist/cardi-b - text: \",\" - link \"Bad Bunny\": - /url: /d/artist/bad-bunny - text: \"&\" - link \"J Balvin\": - /url: /d/artist/j-balvin - button \"68",
+    "versionsAvailable": [
+      "C",
+      "D",
+      "IC",
+      "ID",
+      "QHC",
+      "QHD"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 83,
@@ -909,8 +1721,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Golpes Que da la Vida with Reyli La Sonora Santanera Reyli Barba",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 84,
@@ -920,8 +1740,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Tequila First Version The Champs",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 85,
@@ -931,8 +1759,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Shake Senora feat T Pain Sean Paul Pitbull T Pain Sean Paul",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 86,
@@ -942,8 +1778,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Sway Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 87,
@@ -953,8 +1797,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "What I Like About You The Romantics",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 88,
@@ -964,8 +1816,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Mr Saxobeat Radio Edit Alexandra Stan",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 89,
@@ -975,8 +1835,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Let It Ride Bachman Turner Overdrive",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 90,
@@ -985,9 +1853,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Candy Cameo",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/123843?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Candy - generic: \"1\" - button \"Candy\": - img \"Candy\" - generic: Candy - link \"Cameo\": - /url: /d/artist/cameo - button \"110\" - button \"E Min\" - link \"Valentine's Day\": - /url: /d/genres?genre=valentines-day - button \"C\": - generic: C - button \"IC\": - generic: ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 110,
+    "key": "E Min",
+    "genre": "Valentine's Day"
   },
   {
     "index": 91,
@@ -996,9 +1876,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Attack Me With Your Love Cameo",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/154491?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Attack Me With Your Love - generic: \"1\" - button \"Attack Me With Your Love\": - img \"Attack Me With Your Love\" - generic: Attack Me With Your Love - link \"Cameo\": - /url: /d/artist/cameo - button \"107\" - button \"B Min\" - link \"Funk\": - /url: /d/genres?genre=fun",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 107,
+    "key": "B Min",
+    "genre": "Funk"
   },
   {
     "index": 92,
@@ -1007,9 +1899,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "A Night to Remember Shalamar",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/253280?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "copied-link-no-add-action",
+    "matchedTitle": "A Night To Remember - generic: \"1\" - button \"A Night To Remember\": - img \"A Night To Remember\" - generic: A Night To Remember - link \"Shalamar\": - /url: /d/artist/shalamar - button \"109\" - button \"C Min\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"C\": ",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 109,
+    "key": "C Min",
+    "genre": "R&B"
   },
   {
     "index": 93,
@@ -1019,8 +1923,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Make That Move Shalamar",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 94,
@@ -1030,8 +1942,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "B Y O B Bring Your Own Baby Sister Sledge",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 95,
@@ -1041,8 +1961,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "We Are Family 1995 Remaster Sister Sledge",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 96,
@@ -1052,8 +1980,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Thinking of You 1995 Remaster Sister Sledge",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 97,
@@ -1063,8 +1999,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Lost in Music 1995 Remaster Sister Sledge",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 98,
@@ -1073,9 +2017,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Forget Me Nots Remastered Patrice Rushen",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/124706?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Forget Me Nots - generic: \"1\" - button \"Forget Me Nots\": - img \"Forget Me Nots\" - generic: Forget Me Nots - link \"Patrice Rushen\": - /url: /d/artist/patrice-rushen - button \"115\" - button \"F♯ Min\" - link \"Funk\": - /url: /d/genres?genre=funk - button \"C\": - gen",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 115,
+    "key": "F♯ Min",
+    "genre": "Funk"
   },
   {
     "index": 99,
@@ -1085,8 +2041,20 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Remind Me Remastered Patrice Rushen",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "Remind Me - generic: \"1\" - button \"Remind Me\": - img \"Remind Me\" - generic: Remind Me - link \"Patrice Rushen\": - /url: /d/artist/patrice-rushen - button \"91\" - button \"A Min\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"CE\": - generic: CE - button \"CSE\"",
+    "versionsAvailable": [
+      "CE",
+      "CSE",
+      "CRE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 91,
+    "key": "A Min",
+    "genre": "R&B"
   },
   {
     "index": 100,
@@ -1096,8 +2064,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Love Is the Answer Utopia",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 101,
@@ -1107,8 +2083,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Don t Go Breaking My Heart Elton John Kiki Dee",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 102,
@@ -1118,8 +2102,19 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "One Dance Drake Wizkid Kyla",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "matched-no-actions-visible",
+    "matchedTitle": "One Dance - generic: \"1\" - button \"One Dance\": - img \"One Dance\" - generic: One Dance - link \"Drake\": - /url: /d/artist/drake - text: ft - link \"WizKid\": - /url: /d/artist/wizkid - text: \"&\" - link \"Kyla\": - /url: /d/artist/kyla - button \"104\" - button \"A♯ Min",
+    "versionsAvailable": [
+      "C",
+      "IC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 103,
@@ -1129,8 +2124,21 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Hold On We re Going Home Drake Majid Jordan",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "matched-no-actions-visible",
+    "matchedTitle": "Hold On, We're Going Home - generic: \"1\" - button \"Hold On, We're Going Home\": - img \"Hold On, We're Going Home\" - generic: Hold On, We're Going Home - link \"Drake\": - /url: /d/artist/drake - text: ft - link \"Majid Jordan\": - /url: /d/artist/majid-jordan - but",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC",
+      "I"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 104,
@@ -1140,8 +2148,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "She s On Fire Amy Holland",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 105,
@@ -1150,9 +2166,24 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "BAILE INoLVIDABLE Bad Bunny",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/278223?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "BAILE INoLVIDABLE - generic: \"1\" - button \"BAILE INoLVIDABLE\": - img \"BAILE INoLVIDABLE\" - generic: BAILE INoLVIDABLE - link \"Bad Bunny\": - /url: /d/artist/bad-bunny - button \"90\" - button \"A Min\" - link \"Salsa\": - /url: /d/genres?genre=salsa - button \"C\": - g",
+    "versionsAvailable": [
+      "C",
+      "D",
+      "IC",
+      "ID",
+      "QHC",
+      "QHD"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 90,
+    "key": "A Min",
+    "genre": "Salsa"
   },
   {
     "index": 106,
@@ -1162,8 +2193,21 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "DtMF Bad Bunny",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "DtMF (Rivas 'Levels' VIP Edit) - generic: \"1\" - button \"DtMF (Rivas 'Levels' VIP Edit)\": - img \"DtMF (Rivas 'Levels' VIP Edit)\" - text: DtMF ( - link \"Rivas\": - /url: /d/artist/rivas - text: \"'Levels' VIP Edit)\" - generic: PREM - link \"Bad Bunny\": - /url: /d/a",
+    "versionsAvailable": [
+      "CE",
+      "DE",
+      "CSE",
+      "DSE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 107,
@@ -1172,9 +2216,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Best Of My Love The Emotions",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/90792?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Best Of My Love - generic: \"1\" - button \"Best Of My Love\": - img \"Best Of My Love\" - generic: Best Of My Love - link \"The Emotions\": - /url: /d/artist/the-emotions - button \"112\" - button \"A Min\" - link \"R&B\": - /url: /d/genres?genre=r-b - button \"C\": - generi",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": 112,
+    "key": "A Min",
+    "genre": "R&B"
   },
   {
     "index": 108,
@@ -1184,8 +2240,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "CAN T STOP THE FEELING from DreamWorks Animation s TROLLS Justin Timberlake",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 109,
@@ -1195,8 +2259,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Happy From Despicable Me 2 Pharrell Williams",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 110,
@@ -1205,9 +2277,24 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Levitating Dua Lipa",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/146679?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Levitating - generic: \"1\" - button \"Levitating\": - img \"Levitating\" - generic: Levitating - link \"Dua Lipa\": - /url: /d/artist/dua-lipa - button \"103\" - button \"B Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"D\": - generic",
+    "versionsAvailable": [
+      "C",
+      "D",
+      "IC",
+      "ID",
+      "QHC",
+      "QHD"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "Quick Hit Dirty",
+    "highEnergy": true,
+    "bpm": 103,
+    "key": "B Min",
+    "genre": "Pop"
   },
   {
     "index": 111,
@@ -1217,8 +2304,19 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "La Isla Bonita Madonna",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "skipped-no-intro-edit",
+    "matchedTitle": "La Isla Bonita (PAJANE Remix) - generic: \"1\" - button \"La Isla Bonita (PAJANE Remix)\": - img \"La Isla Bonita (PAJANE Remix)\" - generic: La Isla Bonita (PAJANE Remix) - link \"Madonna\": - /url: /d/artist/madonna- - button \"126\" - button \"A Min\" - link \"Tech Hous",
+    "versionsAvailable": [
+      "CE",
+      "CSE"
+    ],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 112,
@@ -1227,9 +2325,22 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Don t Stop The Music Rihanna",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/142027?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Don't Stop The Music - generic: \"1\" - button \"Don't Stop The Music\": - img \"Don't Stop The Music\" - generic: Don't Stop The Music - link \"Rihanna\": - /url: /d/artist/rihanna - button \"123\" - button \"F♯ Min\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC",
+      "I"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 123,
+    "key": "F♯ Min",
+    "genre": "Pop"
   },
   {
     "index": 113,
@@ -1239,8 +2350,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Hips Don t Lie feat Wyclef Jean Shakira Wyclef Jean",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 114,
@@ -1250,8 +2369,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "You re the First the Last My Everything Michael Buble",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 115,
@@ -1260,9 +2387,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Everything Michael Buble",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/106894?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Everything - generic: \"1\" - button \"Everything\": - img \"Everything\" - generic: Everything - link \"Michael Bublé\": - /url: /d/artist/michael-bubl - button \"123\" - button \"A Maj\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"IC\":",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 123,
+    "key": "A Maj",
+    "genre": "Pop"
   },
   {
     "index": 116,
@@ -1272,8 +2411,16 @@
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Canned Heat Jamiroquai",
     "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeLibrary": "main",
+    "status": "missing-or-bad-match",
+    "matchedTitle": "",
+    "versionsAvailable": [],
+    "introVersion": "",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   },
   {
     "index": 117,
@@ -1282,9 +2429,22 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Call Me Maybe Carly Rae Jepsen",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/156483?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Call Me Maybe - generic: \"1\" - button \"Call Me Maybe\": - img \"Call Me Maybe\" - generic: Call Me Maybe - link \"Carly Rae Jepsen\": - /url: /d/artist/carly-rae-jepsen - button \"120\" - button \"G Maj\" - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generi",
+    "versionsAvailable": [
+      "C",
+      "IC",
+      "QHC",
+      "I"
+    ],
+    "introVersion": "Intro Clean",
+    "quickHitVersion": "Quick Hit Clean",
+    "highEnergy": true,
+    "bpm": 120,
+    "key": "G Maj",
+    "genre": "Pop"
   },
   {
     "index": 118,
@@ -1293,8 +2453,21 @@
     "source": "https://open.spotify.com/playlist/0SjXMxazFaZd9DyC2iY2l3",
     "sourceLabel": "Miri & Jack Spotify playlist",
     "searchQuery": "Cake By The Ocean DNCE",
-    "bpmSupremeUrl": "",
-    "bpmSupremeLibrary": "",
-    "status": "pending-link-copy"
+    "bpmSupremeUrl": "https://app.bpmsupreme.com/d/album/67476?library=main",
+    "bpmSupremeLibrary": "main",
+    "status": "crate-added",
+    "matchedTitle": "Cake By The Ocean - generic: \"1\" - button \"Cake By The Ocean\": - img \"Cake By The Ocean\" - generic: Cake By The Ocean - link \"DNCE\": - /url: /d/artist/dnce - button \"119\" - button - link \"Pop\": - /url: /d/genres?genre=pop - button \"C\": - generic: C - button \"D",
+    "versionsAvailable": [
+      "C",
+      "D",
+      "IC",
+      "ID"
+    ],
+    "introVersion": "Intro Dirty",
+    "quickHitVersion": "",
+    "highEnergy": false,
+    "bpm": null,
+    "key": "",
+    "genre": ""
   }
 ]
