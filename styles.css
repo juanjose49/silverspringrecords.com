@@ -594,6 +594,33 @@ header.nav-open .menu-toggle span:nth-child(3) {
   width: 96px;
 }
 
+.collection-download-button {
+  align-self: end;
+  min-height: 38px;
+  padding: 8px 14px;
+  border: 1px solid #2f3137;
+  border-radius: 6px;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  background: #2f3137;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.collection-download-button:hover,
+.collection-download-button:focus-visible {
+  background: #f57c00;
+  border-color: #f57c00;
+}
+
+.collection-download-button:disabled {
+  color: #8a8f98;
+  border-color: #c9cdd3;
+  background: #f5f6f8;
+  cursor: not-allowed;
+}
+
 .filter-field input,
 .filter-field select,
 .collection-table input {
@@ -705,7 +732,8 @@ header.nav-open .menu-toggle span:nth-child(3) {
   }
 
   .filter-field-global,
-  .collection-page-size {
+  .collection-page-size,
+  .collection-download-button {
     width: 100%;
   }
 

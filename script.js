@@ -37,6 +37,7 @@ if (collectionTable) {
   const globalFilter = document.getElementById("collection-global-filter");
   const viewButtons = Array.from(document.querySelectorAll("[data-collection-view]"));
   const pageSizeSelect = document.getElementById("collection-page-size");
+  const downloadCsvButton = document.getElementById("collection-download-csv");
   const previousPageButton = document.getElementById("collection-prev-page");
   const nextPageButton = document.getElementById("collection-next-page");
   const pageStatus = document.getElementById("collection-page-status");
@@ -79,6 +80,7 @@ if (collectionTable) {
   };
   let activeView = "collection";
   let currentPage = 1;
+  let currentFilteredRows = [];
 
   const getValue = (value) => value == null ? "" : String(value);
   const normalizeFilter = (value) => getValue(value).toLowerCase().trim();
@@ -100,6 +102,42 @@ if (collectionTable) {
     return getValue(row[column]);
   };
   const getSourceUrl = (row) => row.bpmSupremeAlbumUrl || row.bpmSupremeTrackUrl || row.source;
+  const csvEscape = (value) => {
+    const text = getValue(value);
+    return /[",\n\r]/.test(text) ? `"${text.replace(/"/g, '""')}"` : text;
+  };
+  const buildCsv = (rows, config) => {
+    const headers = config.columns.map((column) => column.label);
+    const body = rows.map((row) => config.columns.map((column) => {
+      if (column.key === "source") {
+        return csvEscape(getSourceUrl(row) || getColumnValue(row, column.key));
+      }
+
+      return csvEscape(getColumnValue(row, column.key));
+    }).join(","));
+
+    return [headers.map(csvEscape).join(","), ...body].join("\r\n") + "\r\n";
+  };
+  const getCsvFilename = () => {
+    const today = new Date().toISOString().slice(0, 10);
+    return activeView === "wishlist"
+      ? `music-wishlist-${today}.csv`
+      : `music-collection-${today}.csv`;
+  };
+  const downloadFilteredCsv = () => {
+    const config = getActiveConfig();
+    const csv = buildCsv(currentFilteredRows, config);
+    const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+
+    link.href = url;
+    link.download = getCsvFilename();
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+  };
 
   const resetCollectionPage = () => {
     currentPage = 1;
@@ -183,6 +221,13 @@ if (collectionTable) {
 
       return globalMatch && columnMatch;
     });
+
+    currentFilteredRows = filteredRows;
+
+    if (downloadCsvButton) {
+      downloadCsvButton.textContent = `Download (${filteredRows.length})`;
+      downloadCsvButton.disabled = !filteredRows.length;
+    }
 
     const pageSize = getPageSize();
     const pageCount = Math.max(1, Math.ceil(filteredRows.length / pageSize));
@@ -297,6 +342,10 @@ if (collectionTable) {
       setActiveView(button.dataset.collectionView);
     });
   });
+
+  if (downloadCsvButton) {
+    downloadCsvButton.addEventListener("click", downloadFilteredCsv);
+  }
 
   if (pageSizeSelect) {
     pageSizeSelect.addEventListener("change", () => {
