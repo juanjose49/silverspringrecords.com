@@ -25,7 +25,7 @@
 <link rel="icon" type="image/png" sizes="192x192" href="/images/favicon-192.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="stylesheet" href="styles.css?v=20260619-collection-pagination">
+<link rel="stylesheet" href="styles.css?v=20260619-collection-wishlist">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-GWFMWKVJFQ"></script>
 <script>
@@ -62,7 +62,7 @@
 <main>
   <section class="page-header">
     <h1>Collection</h1>
-    <p>Review the Silver Spring Records music library with source links for each cataloged track.</p>
+    <p>Review the Silver Spring Records music library, plus wishlist tracks still being sourced.</p>
   </section>
 
   <section class="collection-section" aria-labelledby="collection-heading">
@@ -72,9 +72,13 @@
         <p id="collection-count" class="collection-count" aria-live="polite">Loading collection...</p>
       </div>
       <div class="collection-toolbar">
+        <div class="collection-view-toggle" role="group" aria-label="Collection view">
+          <button type="button" class="active" data-collection-view="collection" aria-pressed="true">Collection</button>
+          <button type="button" data-collection-view="wishlist" aria-pressed="false">Wishlist</button>
+        </div>
         <label class="filter-field filter-field-global">
           <span>Search all columns</span>
-          <input type="search" id="collection-global-filter" autocomplete="off" placeholder="Title, artist, album, source">
+          <input type="search" id="collection-global-filter" autocomplete="off" placeholder="Title, artist, album, status">
         </label>
         <label class="filter-field collection-page-size">
           <span>Rows</span>
@@ -88,30 +92,9 @@
     </div>
 
     <div class="collection-table-wrap">
-      <table class="collection-table" data-collection-table data-source="data/music-collection.json">
+      <table class="collection-table" data-collection-table data-source="collection/music-collection.json" data-wishlist-source="collection/music-wishlist.json">
         <thead>
-          <tr>
-            <th scope="col">
-              <span>Title</span>
-              <input type="search" data-column-filter="title" autocomplete="off" aria-label="Filter by title">
-            </th>
-            <th scope="col">
-              <span>Artist</span>
-              <input type="search" data-column-filter="artist" autocomplete="off" aria-label="Filter by artist">
-            </th>
-            <th scope="col">
-              <span>Album</span>
-              <input type="search" data-column-filter="album" autocomplete="off" aria-label="Filter by album">
-            </th>
-            <th scope="col">
-              <span>Duration</span>
-              <input type="search" data-column-filter="duration" autocomplete="off" aria-label="Filter by duration">
-            </th>
-            <th scope="col">
-              <span>Source</span>
-              <input type="search" data-column-filter="source" autocomplete="off" aria-label="Filter by source">
-            </th>
-          </tr>
+          <tr></tr>
         </thead>
         <tbody>
           <tr>
@@ -132,6 +115,6 @@
   <p>&copy; <span id="year"></span> Silver Spring Records</p>
 </footer>
 
-<script src="script.js?v=20260619-collection-pagination"></script>
+<script src="script.js?v=20260619-collection-wishlist"></script>
 </body>
 </html>

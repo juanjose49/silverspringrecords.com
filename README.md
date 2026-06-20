@@ -9,6 +9,8 @@ Welcome to the Silver Spring Records website project. This repository contains t
 ├── keys/               # SSH key folder (not included in the repository)
 ├── styles.css          # Stylesheet for the website
 ├── index.html          # Homepage HTML
+├── collection/         # Collection data, purchase candidates, and strategy artifacts
+├── collection.html     # Public music collection browser
 ├── services.html       # Services page HTML
 ├── about.html          # About page HTML
 ├── .gitignore          # Git ignore file

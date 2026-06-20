@@ -551,6 +551,33 @@ header.nav-open .menu-toggle span:nth-child(3) {
   gap: 14px;
 }
 
+.collection-view-toggle {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 3px;
+  border: 1px solid #c9cdd3;
+  border-radius: 6px;
+  background: #f5f6f8;
+}
+
+.collection-view-toggle button {
+  min-height: 30px;
+  padding: 6px 12px;
+  border: 0;
+  border-radius: 4px;
+  color: #4d4f55;
+  font: inherit;
+  font-weight: 700;
+  background: transparent;
+  cursor: pointer;
+}
+
+.collection-view-toggle button.active {
+  color: #fff;
+  background: #2f3137;
+}
+
 .filter-field {
   display: grid;
   gap: 6px;
@@ -667,6 +694,14 @@ header.nav-open .menu-toggle span:nth-child(3) {
   .collection-toolbar {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .collection-view-toggle {
+    width: 100%;
+  }
+
+  .collection-view-toggle button {
+    flex: 1;
   }
 
   .filter-field-global,

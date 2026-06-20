@@ -30,18 +30,56 @@ if (menuToggle && header) {
 const collectionTable = document.querySelector("[data-collection-table]");
 
 if (collectionTable) {
+  const theadRow = collectionTable.querySelector("thead tr");
   const tbody = collectionTable.querySelector("tbody");
+  const heading = document.getElementById("collection-heading");
   const countLabel = document.getElementById("collection-count");
   const globalFilter = document.getElementById("collection-global-filter");
-  const columnFilters = Array.from(collectionTable.querySelectorAll("[data-column-filter]"));
+  const viewButtons = Array.from(document.querySelectorAll("[data-collection-view]"));
   const pageSizeSelect = document.getElementById("collection-page-size");
   const previousPageButton = document.getElementById("collection-prev-page");
   const nextPageButton = document.getElementById("collection-next-page");
   const pageStatus = document.getElementById("collection-page-status");
-  let collectionRows = [];
+  const collectionViews = {
+    collection: {
+      heading: "Music Collection",
+      loadingText: "Loading collection...",
+      emptyText: "No tracks match the current filters.",
+      errorText: "Collection data could not be loaded.",
+      totalLabel: "tracks",
+      source: collectionTable.dataset.source,
+      columns: [
+        { key: "title", label: "Title" },
+        { key: "artist", label: "Artist" },
+        { key: "album", label: "Album" },
+        { key: "duration", label: "Duration" },
+        { key: "source", label: "Source" }
+      ]
+    },
+    wishlist: {
+      heading: "Music Wishlist",
+      loadingText: "Loading wishlist...",
+      emptyText: "No wishlist tracks match the current filters.",
+      errorText: "Wishlist data could not be loaded.",
+      totalLabel: "wishlist tracks",
+      source: collectionTable.dataset.wishlistSource,
+      columns: [
+        { key: "title", label: "Title" },
+        { key: "artist", label: "Artist" },
+        { key: "duration", label: "Duration" },
+        { key: "status", label: "Status" },
+        { key: "reason", label: "Reason" },
+        { key: "source", label: "Source" }
+      ]
+    }
+  };
+  const viewRows = {
+    collection: [],
+    wishlist: []
+  };
+  let activeView = "collection";
   let currentPage = 1;
 
-  const searchableColumns = ["title", "artist", "album", "duration", "source"];
   const getValue = (value) => value == null ? "" : String(value);
   const normalizeFilter = (value) => getValue(value).toLowerCase().trim();
   const isUrl = (value) => /^https?:\/\//i.test(getValue(value));
@@ -51,24 +89,91 @@ if (collectionTable) {
   };
   const getColumnValue = (row, column) => {
     if (column === "source") {
-      return [row.sourceLabel, row.source].filter(Boolean).join(" ");
+      return [
+        row.sourceLabel,
+        row.bpmSupremeAlbumUrl,
+        row.bpmSupremeTrackUrl,
+        row.source
+      ].filter(Boolean).join(" ");
     }
 
     return getValue(row[column]);
   };
+  const getSourceUrl = (row) => row.bpmSupremeAlbumUrl || row.bpmSupremeTrackUrl || row.source;
 
   const resetCollectionPage = () => {
     currentPage = 1;
   };
 
+  const getActiveConfig = () => collectionViews[activeView];
+  const getActiveRows = () => viewRows[activeView];
+
+  const renderTableHead = () => {
+    const config = getActiveConfig();
+
+    if (!theadRow) {
+      return;
+    }
+
+    theadRow.replaceChildren();
+
+    config.columns.forEach((column) => {
+      const header = document.createElement("th");
+      const label = document.createElement("span");
+      const input = document.createElement("input");
+
+      header.scope = "col";
+      label.textContent = column.label;
+      input.type = "search";
+      input.autocomplete = "off";
+      input.dataset.columnFilter = column.key;
+      input.setAttribute("aria-label", `Filter by ${column.label.toLowerCase()}`);
+      input.addEventListener("input", () => {
+        resetCollectionPage();
+        renderCollection();
+      });
+
+      header.append(label, input);
+      theadRow.appendChild(header);
+    });
+  };
+
+  const setActiveView = (view) => {
+    if (!collectionViews[view] || activeView === view) {
+      return;
+    }
+
+    activeView = view;
+    resetCollectionPage();
+    if (globalFilter) {
+      globalFilter.value = "";
+    }
+    renderTableHead();
+    renderCollection();
+  };
+
   const renderCollection = () => {
+    const config = getActiveConfig();
+    const rows = getActiveRows();
+    const searchableColumns = config.columns.map((column) => column.key);
+    const columnFilters = Array.from(collectionTable.querySelectorAll("[data-column-filter]"));
     const globalTerm = normalizeFilter(globalFilter ? globalFilter.value : "");
     const columnTerms = columnFilters.reduce((terms, input) => {
       terms[input.dataset.columnFilter] = normalizeFilter(input.value);
       return terms;
     }, {});
 
-    const filteredRows = collectionRows.filter((row) => {
+    if (heading) {
+      heading.textContent = config.heading;
+    }
+
+    viewButtons.forEach((button) => {
+      const isActive = button.dataset.collectionView === activeView;
+      button.classList.toggle("active", isActive);
+      button.setAttribute("aria-pressed", String(isActive));
+    });
+
+    const filteredRows = rows.filter((row) => {
       const globalMatch = !globalTerm || searchableColumns.some((column) =>
         normalizeFilter(getColumnValue(row, column)).includes(globalTerm)
       );
@@ -89,8 +194,8 @@ if (collectionTable) {
 
     if (countLabel) {
       countLabel.textContent = filteredRows.length
-        ? `Showing ${firstShown}-${lastShown} of ${filteredRows.length} filtered tracks (${collectionRows.length} total)`
-        : `0 of ${collectionRows.length} tracks shown`;
+        ? `Showing ${firstShown}-${lastShown} of ${filteredRows.length} filtered ${config.totalLabel} (${rows.length} total)`
+        : `0 of ${rows.length} ${config.totalLabel} shown`;
     }
 
     if (pageStatus) {
@@ -115,7 +220,7 @@ if (collectionTable) {
       const row = document.createElement("tr");
       const cell = document.createElement("td");
       cell.colSpan = searchableColumns.length;
-      cell.textContent = "No tracks match the current filters.";
+      cell.textContent = config.emptyText;
       row.appendChild(cell);
       tbody.appendChild(row);
       return;
@@ -127,9 +232,10 @@ if (collectionTable) {
       searchableColumns.forEach((column) => {
         const cell = document.createElement("td");
         cell.dataset.label = column.charAt(0).toUpperCase() + column.slice(1);
-        if (column === "source" && isUrl(track.source)) {
+        const sourceUrl = column === "source" ? getSourceUrl(track) : "";
+        if (column === "source" && isUrl(sourceUrl)) {
           const link = document.createElement("a");
-          link.href = track.source;
+          link.href = sourceUrl;
           link.textContent = track.sourceLabel || track.source;
           link.rel = "noopener";
           link.target = "_blank";
@@ -144,23 +250,38 @@ if (collectionTable) {
     });
   };
 
-  fetch(collectionTable.dataset.source)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Collection data could not be loaded.");
-      }
-      return response.json();
-    })
-    .then((tracks) => {
-      collectionRows = Array.isArray(tracks) ? tracks : [];
+  const loadViewData = (view) => {
+    const config = collectionViews[view];
+
+    if (!config || !config.source) {
+      return Promise.resolve();
+    }
+
+    return fetch(config.source)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(config.errorText);
+        }
+        return response.json();
+      })
+      .then((tracks) => {
+        viewRows[view] = Array.isArray(tracks) ? tracks : [];
+      });
+  };
+
+  renderTableHead();
+
+  Promise.all([loadViewData("collection"), loadViewData("wishlist")])
+    .then(() => {
       renderCollection();
     })
     .catch(() => {
+      const config = getActiveConfig();
       if (countLabel) {
-        countLabel.textContent = "Collection data could not be loaded.";
+        countLabel.textContent = config.errorText;
       }
       if (tbody) {
-        tbody.innerHTML = '<tr><td colspan="5">Collection data could not be loaded.</td></tr>';
+        tbody.innerHTML = `<tr><td colspan="${config.columns.length}">${config.errorText}</td></tr>`;
       }
     });
 
@@ -171,10 +292,9 @@ if (collectionTable) {
     });
   }
 
-  columnFilters.forEach((input) => {
-    input.addEventListener("input", () => {
-      resetCollectionPage();
-      renderCollection();
+  viewButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      setActiveView(button.dataset.collectionView);
     });
   });
 
